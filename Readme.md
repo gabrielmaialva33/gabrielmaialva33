@@ -28,6 +28,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Go](https://img.shields.io/badge/-go-9cf0e3?style=flat-square&logo=go&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
+[![Java](https://img.shields.io/badge/-java-f5a52f?style=flat-square&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 
 
