@@ -5,9 +5,9 @@
 
 :technologist: <strong>I'm a Fullstack Developer</strong>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula">
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&show_icons=true">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8">
 
 
 ## Languages and Technologies I use daily
