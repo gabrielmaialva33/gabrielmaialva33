@@ -7,7 +7,7 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula">
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula">
 
 
 ## Languages and Technologies I use daily
