@@ -1,9 +1,10 @@
-# Hi, I'm Gabriel Maia :notes:
+# Hi, I'm Gabriel Maia :notes: 
 
 
-## About me
 
-:technologist: <strong>I'm a Fullstack Developer</strong>
+## About me 
+
+:technologist: <strong>I'm a Fullstack Developer</strong>  <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33&title=viewers">
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula&layout=compact">
 
