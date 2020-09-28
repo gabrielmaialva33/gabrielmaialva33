@@ -5,7 +5,7 @@
 
 :technologist: <strong>I'm a Fullstack Developer</strong>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula&layout=compact">
 
 
 ## Languages and Technologies I use daily
@@ -21,8 +21,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula&layout=compact">
 
 ## Knowledge
 
