@@ -1,13 +1,10 @@
-# Hi, I'm Gabriel Maia :notes: 
+# Hi, I'm Gabriel Maia :notes:
 
+## About me
 
-
-## About me 
-
-:technologist: <strong>I'm a Fullstack Developer</strong>  <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33&title=viewers">
+:technologist: <strong>I'm a Fullstack Developer</strong> <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33&title=viewers">
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula&layout=compact">
-
 
 ## Languages and Technologies I use daily
 
@@ -22,7 +19,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-
 ## Knowledge
 
 **Languages**
@@ -32,7 +28,6 @@
 [![Go](https://img.shields.io/badge/-go-9cf0e3?style=flat-square&logo=go&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![Java](https://img.shields.io/badge/-java-f5a52f?style=flat-square&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
@@ -67,7 +62,6 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 
-
 **IDE**
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/gabrielmaialva33/)](https://github.comgabrielmaialva33a/)
 
@@ -79,7 +73,5 @@
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-
-
 
 ⭐️ From [Gabriel Maia](https://github.com/gabrielmaialva33/)
