@@ -2,7 +2,7 @@
 
 ## About me
 
-:technologist: <strong>I'm a Fullstack Developer</strong> <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33&title=viewers">
+:technologist: <strong>I'm a Fullstack Developer</strong> <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33">
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula&layout=compact"> <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula&layout=compact">
 
@@ -42,7 +42,7 @@
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=for-the-badge&logo=Dribbble&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 
 **Others Technologies**
-[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badgee&logo=Gradle&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=Gradle&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Algolia](https://img.shields.io/badge/-Algolia-94cafc?style=for-the-badge&logo=Algolia&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
