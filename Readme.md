@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/images/hi.gif" width="30px"></h2>
+# Hi, I'm Gabriel Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/.github/images/hi.gif" width="30px"></h2>
 
 ## About me
 
