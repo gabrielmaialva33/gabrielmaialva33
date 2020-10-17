@@ -88,4 +88,4 @@
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 
-⭐️ From [Gabriel Maia](https://github.com/gabrielmaialva33/)
+⭐️ From [Maia](https://github.com/gabrielmaialva33/)
