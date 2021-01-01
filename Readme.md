@@ -4,13 +4,13 @@
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
     <br/><br/>
     <a href="https://github.com/gabrielmaialva33" target="_blank">
-        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
+        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=flat&logoColor=white" alt="Bradge Github" />
     </a>
     <a href="https://t.me/mrootx" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=flat&logoColor=white" alt="Bradge Telegram" />
     </a>
     <a href="mailto:mrootx@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=flat&logoColor=white" alt="Bradge ProtonMail" />
     </a>
 </p>
 
