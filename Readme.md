@@ -18,10 +18,10 @@
 
 :technologist: <strong>Eu sou um desenvolvedor backend</strong> 
     <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33">
-<p align="justify-all">
+<div>
     <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=dracula&layout=compact"> 
     <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&theme=dracula&layout=compact">
-</p>
+</div>
 
 ## Linguagens e Tecnologias que uso diariamente
 
