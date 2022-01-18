@@ -1,4 +1,4 @@
-# Oi, Eu sou o Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/.github/images/hi.gif" width="30px"></h2>
+# Oi, Sou o Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/.github/images/hi.gif" width="30px"></h2>
 
 <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
