@@ -41,15 +41,17 @@
 
 ## Conhecimentos
 
-**Linguagens**
+**```Linguagens```**
+    
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat&logo=Python&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Go](https://img.shields.io/badge/-go-9cf0e3?style=flat&logo=go&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Java](https://img.shields.io/badge/-java-f5a52f?style=flat&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+[![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 
-**Front-end / Mobile**
+**```Front-end / Mobile```**
+    
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat&logo=sass)](https://github.comgabrielmaialva33a/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
@@ -57,11 +59,13 @@
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat&logo=styled-components)](https://github.com/gabrielmaialva33/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react)](https://github.com/gabrielmaialva33/)
 
-**Design**
+**```Design```**
+    
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat&logo=figma)](https://github.comgabrielmaialva33a/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat&logo=Dribbble&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 
-**Outras Tecnologias**
+**```Outras Tecnologias```**
+    
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=Gradle&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Algolia](https://img.shields.io/badge/-Algolia-94cafc?style=flat&logo=Algolia&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
@@ -71,21 +75,26 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 
-**Banco de Dados**
+**```Banco de Dados```**
+    
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat&logo=mysql&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-
-**Sistema Operacional**
+[![Redis](https://img.shields.io/badge/-Redis-D9281A?style=flat&logo=sqlite&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+    
+**```Sistema Operacional```**
+    
 [![Mac](https://img.shields.io/badge/-MacOS-FFFFFF?style=flat&logo=Apple&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 
-**IDE**
+**```IDE```**
+    
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&link=https://github.com/gabrielmaialva33/)](https://github.comgabrielmaialva33a/)
 
-**Versionamento e Comunicação**
+**```Versionamento e Comunicação```**
+    
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
