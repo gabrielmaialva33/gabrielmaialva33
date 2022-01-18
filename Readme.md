@@ -14,6 +14,8 @@
     </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=onedark)](https://github.com/gabrielmaialva33/github-profile-trophy)
+
 ## Sobre mim
 
 :technologist: <strong>Eu sou um desenvolvedor backend</strong> 
