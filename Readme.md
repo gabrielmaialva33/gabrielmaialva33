@@ -23,7 +23,7 @@
   <a href="https://github.com/gabrielmaialva33">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&&count_private=true&theme=omni"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&layout=compact&theme=omni"/>
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=radical">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=radical&row=1&column=7">
 </div>
     
 ## Linguagens e Tecnologias que uso diariamente
