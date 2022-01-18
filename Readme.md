@@ -14,17 +14,18 @@
     </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=onedark)](https://github.com/gabrielmaialva33/github-profile-trophy)
-
 ## Sobre mim
 
 :technologist: <strong>Eu sou um desenvolvedor backend</strong> 
     <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33">
+    
 <div>
-    <img align='center' src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&&count_private=true&theme=omni"> 
-    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&layout=compact&theme=omni">
+  <a href="https://github.com/gabrielmaialva33">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&&count_private=true&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&layout=compact&theme=omni"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=radical">
 </div>
-
+    
 ## Linguagens e Tecnologias que uso diariamente
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
