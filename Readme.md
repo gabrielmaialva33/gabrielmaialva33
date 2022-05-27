@@ -17,6 +17,7 @@
 ## Sobre mim
 
 :technologist: <strong>Eu sou um desenvolvedor backend</strong> 
+    <img align='center' src="https://wakatime.com/badge/user/e61842d0-c588-4586-96a3-f0448a434be4.svg">
     <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33">
     
 <div>
