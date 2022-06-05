@@ -19,6 +19,7 @@
 :technologist: <strong>Eu sou um desenvolvedor backend</strong> 
     <img align='center' src="https://wakatime.com/badge/user/e61842d0-c588-4586-96a3-f0448a434be4.svg">
     <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33">
+    <img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabrielmaialva33%2Fhit-counter&count_bg=%233D7EC8&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     
 <div>
   <a href="https://github.com/gabrielmaialva33">
