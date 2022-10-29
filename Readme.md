@@ -6,11 +6,8 @@
     <a href="https://github.com/gabrielmaialva33" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=flat&logoColor=white" alt="Bradge Github" />
     </a>
-    <a href="https://t.me/mrootx" target="_blank">
+    <a href="https://t.me/manny_manuel_calavera" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=flat&logoColor=white" alt="Bradge Telegram" />
-    </a>
-    <a href="mailto:mrootx@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=flat&logoColor=white" alt="Bradge ProtonMail" />
     </a>
 </p>
 
