@@ -1,10 +1,5 @@
 # <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/.github/images/hi.gif" width="40"/>
 
-![Wakatime stats](https://wakatime.com/badge/user/e61842d0-c588-4586-96a3-f0448a434be4.svg)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabrielmaialva33%2Fhit-counter&count_bg=%233D7EC8&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="">
 
 <p align="center">
@@ -103,6 +98,6 @@ Kotlin                   2 repos             █░░░░░░░░░░�
  Last Updated on 05/02/2023 04:55:37 UTC
 <!--END_SECTION:waka-->
 
-⭐️ Por [Maia](https://github.com/gabrielmaialva33/)
+⭐️ by [Maia](https://github.com/gabrielmaialva33/)
 
 
