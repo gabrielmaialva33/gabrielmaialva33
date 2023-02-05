@@ -25,96 +25,82 @@
 </em></p>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C613%20hrs%2039%20mins-blue)
 
-<div>
-  <a href="https://github.com/gabrielmaialva33">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&&count_private=true&theme=omni"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&langs_count=8&layout=compact&theme=omni"/>
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=radical&row=1&column=7">
-</div>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
-## Languages and Technologies
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109%20Thousand%20lines%20of%20code-blue)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+**🐱 My GitHub Data** 
 
-## Knowledge
+> 🏆 274 Contributions in the Year 2023
+ > 
+> 📦 160.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
-**```Languages```**
+```text
+🌞 Morning    230 commits    █████░░░░░░░░░░░░░░░░░░░░   22.95% 
+🌆 Daytime    194 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.36% 
+🌃 Evening    263 commits    ██████░░░░░░░░░░░░░░░░░░░   26.25% 
+🌙 Night      315 commits    ███████░░░░░░░░░░░░░░░░░░   31.44%
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Go](https://img.shields.io/badge/-go-9cf0e3?style=flat&logo=go&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat&logo=Python&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=java&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
+```
+📅 **I'm Most Productive on Thursday** 
 
-**```Database```**
+```text
+Monday       75 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+Tuesday      86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
+Wednesday    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Thursday     197 commits    █████░░░░░░░░░░░░░░░░░░░░   19.66% 
+Friday       148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+Saturday     191 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
+Sunday       189 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.86%
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat&logo=mysql&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Redis](https://img.shields.io/badge/-Redis-D9281A?style=flat&logo=sqlite&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+```
 
-**```Front-end / Mobile```**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat&logo=sass)](https://github.comgabrielmaialva33a/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat&logo=styled-components)](https://github.com/gabrielmaialva33/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react)](https://github.com/gabrielmaialva33/)
+📊 **This Week I Spent My Time On** 
 
-**```Design```**
+```text
+⌚︎ Time Zone: America/Sao_Paulo
 
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat&logo=figma)](https://github.comgabrielmaialva33a/)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat&logo=Dribbble&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+💬 Programming Languages: 
+TypeScript               53 hrs 26 mins      ████████████████░░░░░░░░░   66.03% 
+Text                     19 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.45% 
+YAML                     1 hr 54 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+JSON                     1 hr 49 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+JavaScript               58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
-**```Other Technologies```**
+🔥 Editors: 
+WebStorm                 80 hrs 25 mins      ████████████████████████░   99.39% 
+DataGrip                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
-[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=Gradle&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Algolia](https://img.shields.io/badge/-Algolia-94cafc?style=flat&logo=Algolia&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=Insomnia&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+💻 Operating System: 
+Mac                      80 hrs 55 mins      █████████████████████████   100.0%
 
-**```Operational System```**
+```
 
-[![Mac](https://img.shields.io/badge/-MacOS-FFFFFF?style=flat&logo=Apple&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
+**I Mostly Code in TypeScript** 
 
-**```IDE```**
+```text
+TypeScript               19 repos            ████████████░░░░░░░░░░░░░   50.0% 
+Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Elixir                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&link=https://github.com/gabrielmaialva33/)](https://github.comgabrielmaialva33a/)
+```
 
-**```Versioning and Communication```**
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat&logo=Discord&link=https://github.com/gabrielmaialva33/)](https://github.com/gabrielmaialva33/)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&link=https://github.comgabrielmaialva33a/)](https://github.com/gabrielmaialva33/)
 
-**```WakaTime```**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrootx&theme=&hide_border=false"  alt="status"/>
-
-<!--START_SECTION:waka-->
+ Last Updated on 05/02/2023 04:55:37 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ Por [Maia](https://github.com/gabrielmaialva33/)
