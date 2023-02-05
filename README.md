@@ -4,6 +4,8 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gabrielmaialva33.gabrielmaialva33)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabrielmaialva33%2Fhit-counter&count_bg=%233D7EC8&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="">
 
@@ -24,8 +26,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <div>
   <a href="https://github.com/gabrielmaialva33">
