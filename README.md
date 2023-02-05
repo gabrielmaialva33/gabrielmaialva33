@@ -60,7 +60,7 @@ Sunday       164 commits    █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
 HTML                     9 mins              ███████████████████░░░░░░   78.4% 
