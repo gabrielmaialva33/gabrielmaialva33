@@ -1,4 +1,6 @@
-# <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/.github/images/hi.gif" width="40"/>
+<h1 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="40"/>, I'm Maia :) 
+<img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="50" align="center" />
+</h1>
 
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
@@ -10,7 +12,7 @@
 
 ## About me
 
-:technologist: <strong>I am a backend developer</strong> <br>
+:technologist: <strong>I am a developer</strong> <br>
 
 <p><em> - Backend Engineer at <a href="https://yazo.com.br/">Yazo
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
