@@ -1,4 +1,6 @@
-<h1 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="60" height="60" align="center" /> Hi, I'm Maia :)</h1>
+<h1 align="left">Hi, I'm Maia :) 
+<img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
+</h1>
 
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
