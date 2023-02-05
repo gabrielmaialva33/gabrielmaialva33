@@ -12,7 +12,11 @@
 
 :technologist: <strong>I am a backend developer</strong> <br>
 
-<p><em>Senior Software Engineer at <a href="https://pdasolucoes.com.br">PDA Soluções
+<p><em> - Backend Engineer at <a href="https://yazo.com.br/">Yazo
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<p><em> - Senior Software Engineer at <a href="https://pdasolucoes.com.br">PDA Soluções
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
