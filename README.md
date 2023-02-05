@@ -1,7 +1,5 @@
 # <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Maia :) <img src="https://github.com/gabrielmaialva33/gabrielmaialva33/blob/master/.github/images/hi.gif" width="40"/>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="">
-
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
@@ -13,7 +11,6 @@
 ## About me
 
 :technologist: <strong>I am a backend developer</strong> <br>
-
 
 <p><em>Senior Software Engineer at <a href="https://pdasolucoes.com.br">PDA Soluções
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
