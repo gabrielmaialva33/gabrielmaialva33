@@ -18,3 +18,4 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "True"
+          LOCALE: "pt_BR"
