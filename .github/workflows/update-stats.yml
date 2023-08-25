@@ -1,26 +1,41 @@
 name: Waka Readme
 
 on:
+  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: cxsw/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "True"
-          LOCALE: "en"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_OS: "True"
-          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
-          SHOW_SHORT_INFO: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: gabrielmaialva33/gabrielmaialva33 # optional
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: maia # optional
+          COMMITTER_EMAIL: gabrielmaialva33@gmail.com # optional
+          AUTHOR_NAME: Maia # optional
+          AUTHOR_EMAIL: gabrielmaialva33 # optional
+          # you can populate email-id with secretes instead
