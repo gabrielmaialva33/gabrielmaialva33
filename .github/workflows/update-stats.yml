@@ -19,5 +19,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
-          LOCALE: "pt_BR"
+          LOCALE: "en"
           TIME_RANGE: "all_time"
