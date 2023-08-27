@@ -19,75 +19,75 @@
 </em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C113%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C113%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-533-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-533-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-502.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-502.1%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Meus dados no GitHub** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 ? Usado no armazenamento do GitHub 
  > 
-> 🏆 1,206 Contributions in the Year 2023
+> 🏆 1,207 Contribuições no ano de 2023
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Não aberto para contratação
  > 
-> 📜 46 Public Repositories 
+> 📜 46 Repositórios Públicos 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 0 Repositórios Privados 
  > 
-**I'm a Night 🦉** 
+**Eu sou noturno 🦉** 
 
 ```text
-🌞 Morning                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-🌆 Daytime                603 commits         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-🌃 Evening                729 commits         ████████░░░░░░░░░░░░░░░░░   31.18 % 
-🌙 Night                  623 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌞 Manhã                  383 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+🌆 Tarde                  603 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+🌃 Noite                  730 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌙 Madrugada              623 commits         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **Sou mais produtivo em Domingo** 
 
 ```text
-Monday                   216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Tuesday                  290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Wednesday                279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Thursday                 372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Saturday                 434 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Sunday                   448 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Segunda-Feira            216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Terça-Feira              290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Quarta-Feira             279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Quinta-Feira             372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Sexta-Feira              299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Sábado                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Domingo                  449 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
+🕑︎ Fuso horário: America/Sao_Paulo
 
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 TypeScript               21 hrs 13 mins      ██████████████░░░░░░░░░░░   54.37 % 
 Elixir                   4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 YAML                     4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 JSON                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
-🔥 Editors: 
+🔥 Editores: 
 WebStorm                 31 hrs 20 mins      ████████████████████░░░░░   80.27 % 
 RubyMine                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 PyCharm                  2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 Android Studio           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
-🐱‍💻 Projects: 
+🐱‍💻 Projetos: 
 base-streaming-server-v2 20 hrs 30 mins      █████████████░░░░░░░░░░░░   52.53 % 
 bodybook-api             6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 soc-ex-api               5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 winx-music-bot           1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 body-book-api            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Mac                      39 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**Eu geralmente programo em TypeScript** 
 
 ```text
 TypeScript               23 repos            █████████████░░░░░░░░░░░░   52.27 % 
@@ -99,12 +99,12 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
+**Linha do tempo**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/bar_graph.png)
 
 
- Last Updated on 2023-08-27 22:41:09 UTC
+ Last Updated on 2023-08-27 22:47:25 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ by [Maia](https://github.com/gabrielmaialva33/)
