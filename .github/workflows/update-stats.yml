@@ -17,6 +17,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LOC_CHART: "False"
