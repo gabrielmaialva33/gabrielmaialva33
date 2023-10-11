@@ -19,6 +19,15 @@
 </em></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       11 hrs 46 mins  █████████████▒░░░░░░░░░░░   53.05 %
+Bash             1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+.env file        1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Markdown         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+JSON             56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+```
+
 <!--END_SECTION:waka-->
 
 ⭐️ by [Maia](https://github.com/gabrielmaialva33/)
