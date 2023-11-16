@@ -8,7 +8,6 @@ I'm just a Ca... Dev! Not a Cat! I'm a developer! By the way, let's introduce my
 I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my first programming
 language, then I started studying Java programming, C++, TS and so on over time.
 I love music and watching movies in my spare time, I also like to play games, but I don't have much time for that.
-</b>
 
 <br/>
 <br/>
@@ -60,7 +59,9 @@ I love music and watching movies in my spare time, I also like to play games, bu
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
+</b>
 
+<br/>
 <hr/>
 
 <h3>Working in</h3>
@@ -69,7 +70,11 @@ I love music and watching movies in my spare time, I also like to play games, bu
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> 
 </em></p>
 <p><em> - Freelancer at <a href="[https://pdasolucoes.com.br](https://pdasolucoes.com.br/)">PDA Soluções
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> 
+
 <hr/>
+
+### My Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C456%20hrs%2051%20mins-blue)
