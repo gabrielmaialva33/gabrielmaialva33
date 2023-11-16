@@ -9,8 +9,6 @@ I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my
 language, then I started studying Java programming, C++, TS and so on over time.
 I love music and watching movies in my spare time, I also like to play games, but I don't have much time for that.
 
-<br/>
-<br/>
 
 <h3 align="left">Languages, Database, Tools</h3>
 <p>
