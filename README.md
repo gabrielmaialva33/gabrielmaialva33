@@ -7,21 +7,69 @@
 I'm just a Ca... Dev! Not a Cat! I'm a developer! By the way, let's introduce myself!
 I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my first programming
 language, then I started studying Java programming, C++, TS and so on over time.
-I love music and watching movies in my spare time, my favourite animals are
-Cat, I have a dog named "Luna"
+I love music and watching movies in my spare time, I also like to play games, but I don't have much time for that.
 </b>
 
-<p align="center">
-    <i>You can find me or contact me through these networks:</i>
-    <br/><br/>
-    <a href="https://t.me/mrootx" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=flat&logoColor=white" alt="Bradge Telegram" />
-    </a>
+<br/>
+<br/>
+
+<h3 align="center">Languages, Database, Tools</h3>
+<p>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
+  <a href="https://isocpp.org">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://cmake.org">
+    <img src="https://skillicons.dev/icons?i=cmake" />
+  </a>
+  <a href="https://developer.android.com">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://gradle.org">
+    <img src="https://skillicons.dev/icons?i=gradle" />
+  </a>
+  <a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.arduino.cc">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
 </p>
+
+<hr/>
+
+<h3>Working in</h3>
 
 <p><em> - Software Engineer at <a href="[https://pdasolucoes.com.br](https://yazo.com.br/)">Yazo
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> 
 </em></p>
+<p><em> - Freelancer at <a href="[https://pdasolucoes.com.br](https://pdasolucoes.com.br/)">PDA Soluções
+<hr/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C456%20hrs%2051%20mins-blue)
@@ -104,5 +152,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 <br/>
+<br/>
+
 <p align="center"><img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a>
