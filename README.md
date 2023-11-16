@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Maia 
 <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
 </h1>
-<b>
+
 I'm just a Ca... Dev! Not a Cat! I'm a developer! By the way, let's introduce myself!
 I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my first programming
 language, then I started studying Java programming, C++, TS and so on over time.
