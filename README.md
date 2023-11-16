@@ -44,7 +44,6 @@ I love music and watching movies in my spare time, I also like to play games, bu
 </p>
 </b>
 
-<br/>
 <hr/>
 
 <h3>Working in</h3>
