@@ -12,28 +12,17 @@ I love music and watching movies in my spare time, I also like to play games, bu
 <br/>
 <br/>
 
-<h3 align="center">Languages, Database, Tools</h3>
+<h3 align="left">Languages, Database, Tools</h3>
 <p>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
   </a>
   <a href="https://go.dev">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
-  <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-  <a href="https://cmake.org">
-    <img src="https://skillicons.dev/icons?i=cmake" />
-  </a>
-  <a href="https://developer.android.com">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
-  </a>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
   <a href="https://gradle.org">
     <img src="https://skillicons.dev/icons?i=gradle" />
   </a>
@@ -46,14 +35,8 @@ I love music and watching movies in my spare time, I also like to play games, bu
   <a href="https://nodejs.org">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
   <a href="https://www.javascript.com">
     <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.arduino.cc">
-    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
   <a href="https://www.docker.com">
     <img src="https://skillicons.dev/icons?i=docker" />
