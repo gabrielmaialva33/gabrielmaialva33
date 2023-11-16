@@ -9,7 +9,6 @@ I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my
 language, then I started studying Java programming, C++, TS and so on over time.
 I love music and watching movies in my spare time, I also like to play games, but I don't have much time for that.
 
-
 <h3 align="left">Languages, Database, Tools</h3>
 <p>
   <a href="https://www.typescriptlang.org">
@@ -40,7 +39,6 @@ I love music and watching movies in my spare time, I also like to play games, bu
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
-</b>
 
 <hr/>
 
