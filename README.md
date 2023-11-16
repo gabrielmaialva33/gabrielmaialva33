@@ -1,6 +1,15 @@
-<h1 align="left">Hi, I'm Maia :) 
+<img align="left" src="https://github.com/gabrielmaialva33/gabrielmaialva33/assets/cat_0.png" alt="Stats" width="300px">
+
+<h1 align="left">Hi, I'm Maia 
 <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
 </h1>
+<b>
+I'm just a Ca... Dev! Not a Cat! I'm a developer! By the way, let's introduce myself!
+I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my first programming
+language, then I started studying Java programming, C++, TS and so on over time.
+I love music and watching movies in my spare time, my favourite animals are
+Cat, I have a dog named "Luna"
+</b>
 
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
@@ -10,12 +19,8 @@
     </a>
 </p>
 
-## About me
-
-:technologist: <strong>I am a developer</strong> <br>
-
 <p><em> - Software Engineer at <a href="[https://pdasolucoes.com.br](https://yazo.com.br/)">Yazo
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> 
 </em></p>
 
 <!--START_SECTION:waka-->
@@ -97,6 +102,7 @@ Rust                     2 repos             █░░░░░░░░░░�
  Last Updated on 15/11/2023 00:11:40 UTC
 <!--END_SECTION:waka-->
 
-⭐️ by [Maia](https://github.com/gabrielmaialva33/)
 
-
+<br/>
+<p align="center"><img src="https://github.com/gabrielmaialva33/gabrielmaialva33/assets/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center">&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a>
