@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/gabrielmaialva33/gabrielmaialva33/assets/cat_0.png" alt="Stats" width="300px">
+<img align="left" src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/cat_0.png" alt="Stats" width="300px">
 
 <h1 align="left">Hi, I'm Maia 
 <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
@@ -104,5 +104,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 <br/>
-<p align="center"><img src="https://github.com/gabrielmaialva33/gabrielmaialva33/assets/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a>
