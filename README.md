@@ -47,8 +47,6 @@ I love music and watching movies in my spare time, I also like to play games, bu
 <p><em> - Software Engineer at <a href="[https://pdasolucoes.com.br](https://yazo.com.br/)">Yazo
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> 
 </em></p>
-<p><em> - Freelancer at <a href="[https://pdasolucoes.com.br](https://pdasolucoes.com.br/)">PDA Soluções
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> 
 
 <hr/>
 
