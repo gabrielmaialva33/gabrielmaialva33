@@ -53,15 +53,15 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C126%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C127%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 248.6 kB Used in GitHub's Storage 
+> 📦 248.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +82,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 00:50:15 UTC
+ Last Updated on 12/04/2024 00:49:56 UTC
 <!--END_SECTION:waka-->
 
 
