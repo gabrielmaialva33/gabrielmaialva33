@@ -51,17 +51,15 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C557%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C561%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 266.7 kB Used in GitHub's Storage 
- > 
-> 🏆 1,020 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -72,20 +70,20 @@ I love music and watching movies in my spare time, I also like to play games, bu
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1715 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-🌆 Daytime                3321 commits        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-🌃 Evening                3273 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌙 Night                  3545 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+🌞 Morning                1715 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌆 Daytime                3321 commits        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+🌃 Evening                3276 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌙 Night                  3545 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Monday                   1521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Tuesday                  1182 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 Wednesday                1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Thursday                 2146 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
 Friday                   1119 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Saturday                 2047 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Saturday                 2047 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 Sunday                   2231 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 ```
 
@@ -124,7 +122,7 @@ Elixir                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2024 00:14:41 UTC
+ Last Updated on 20/08/2024 00:15:12 UTC
 <!--END_SECTION:waka-->
 
 
