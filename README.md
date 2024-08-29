@@ -51,7 +51,7 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C593%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C599%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -125,7 +125,7 @@ Elixir                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2024 00:14:37 UTC
+ Last Updated on 29/08/2024 00:14:46 UTC
 <!--END_SECTION:waka-->
 
 
