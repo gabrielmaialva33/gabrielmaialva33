@@ -3,7 +3,7 @@
 </h1>
 
 I'm just a Ca... Dev! Not a Cat! I'm a developer! By the way, let's introduce myself!
-I'm 25 years old, and I'm a developer since 2015, I started studying Basic as my first programming
+I'm 25 years old, and I'm a developer since 2014, I started studying Basic as my first programming
 language, then I started studying Java programming, C++, TS and so on over time.
 I love music and watching movies in my spare time, I also like to play games, but I don't have much time for that.
 
