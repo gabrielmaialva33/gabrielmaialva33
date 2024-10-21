@@ -61,6 +61,8 @@ I love music and watching movies in my spare time, I also like to play games, bu
 
 > 📦 276.8 kB Used in GitHub's Storage 
  > 
+> 🏆 1,148 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 53 Public Repositories 
@@ -122,7 +124,7 @@ Elixir                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2024 00:17:03 UTC
+ Last Updated on 21/10/2024 00:16:12 UTC
 <!--END_SECTION:waka-->
 
 
