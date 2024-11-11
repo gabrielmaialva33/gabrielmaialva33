@@ -51,38 +51,38 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C737%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C741%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 300.0 kB Used in GitHub's Storage 
+> 📦 300.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,205 Contributions in the Year 2024
+> 🏆 1,220 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 54 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ██████████████░░░░░░░░░░░   56.90 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Elixir                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+TypeScript               33 repos            ██████████████░░░░░░░░░░░   55.93 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Elixir                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
 
 
- Last Updated on 10/11/2024 00:16:30 UTC
+ Last Updated on 11/11/2024 00:15:53 UTC
 <!--END_SECTION:waka-->
 
 
