@@ -51,7 +51,7 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C861%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C874%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -59,9 +59,9 @@ I love music and watching movies in my spare time, I also like to play games, bu
 
 **🐱 My GitHub Data** 
 
-> 📦 294.4 kB Used in GitHub's Storage 
+> 📦 294.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,364 Contributions in the Year 2024
+> 🏆 1,387 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -69,50 +69,6 @@ I love music and watching movies in my spare time, I also like to play games, bu
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1730 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 Daytime                3388 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-🌃 Evening                3430 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-🌙 Night                  3629 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1587 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Tuesday                  1209 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Wednesday                1673 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Thursday                 2195 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Friday                   1145 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Saturday                 2095 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Sunday                   2273 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               23 hrs 34 mins      █████████████░░░░░░░░░░░░   51.22 % 
-YAML                     4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-JSON                     4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Python                   3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Dart                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-
-🔥 Editors: 
-WebStorm                 33 hrs 42 mins      ██████████████████░░░░░░░   73.22 % 
-PyCharm                  4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-DataGrip                 2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Android Studio           2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-VS Code                  1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-
-💻 Operating System: 
-Mac                      46 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -126,7 +82,7 @@ Elixir                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 00:19:30 UTC
+ Last Updated on 02/12/2024 00:17:30 UTC
 <!--END_SECTION:waka-->
 
 
