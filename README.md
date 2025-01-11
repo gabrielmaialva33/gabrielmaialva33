@@ -51,17 +51,17 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C107%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C111%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 357.8 kB Used in GitHub's Storage 
+> 📦 357.9 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2025
+> 🏆 329 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,6 +69,49 @@ I love music and watching movies in my spare time, I also like to play games, bu
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1819 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+🌆 Daytime                3472 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌃 Evening                3615 commits        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+🌙 Night                  3772 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Tuesday                  1239 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Wednesday                1748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Thursday                 2270 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Friday                   1222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Saturday                 2195 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Sunday                   2342 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Go                       8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.95 % 
+Python                   3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Text                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+
+🔥 Editors: 
+GoLand                   8 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
+WebStorm                 6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+PyCharm                  6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+DataGrip                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+
+💻 Operating System: 
+Mac                      22 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,7 +125,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 00:16:51 UTC
+ Last Updated on 11/01/2025 00:16:35 UTC
 <!--END_SECTION:waka-->
 
 
