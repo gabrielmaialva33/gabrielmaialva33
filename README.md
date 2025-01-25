@@ -51,7 +51,7 @@ I love music and watching movies in my spare time, I also like to play games, bu
 ### My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C154%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C156%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -59,9 +59,9 @@ I love music and watching movies in my spare time, I also like to play games, bu
 
 **🐱 My GitHub Data** 
 
-> 📦 358.7 kB Used in GitHub's Storage 
+> 📦 358.6 kB Used in GitHub's Storage 
  > 
-> 🏆 482 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,6 +69,49 @@ I love music and watching movies in my spare time, I also like to play games, bu
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2026 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌆 Daytime                3711 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌃 Evening                4089 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌙 Night                  4086 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Tuesday                  1311 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Wednesday                1862 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Thursday                 2339 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Friday                   1341 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Saturday                 2597 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Sunday                   2705 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Go                       11 hrs 43 mins      ███████████████░░░░░░░░░░   61.22 % 
+TypeScript               4 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Python                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+
+🔥 Editors: 
+GoLand                   12 hrs 15 mins      ████████████████░░░░░░░░░   63.96 % 
+WebStorm                 5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+PyCharm                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+💻 Operating System: 
+Mac                      19 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,7 +125,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 00:16:27 UTC
+ Last Updated on 25/01/2025 00:16:52 UTC
 <!--END_SECTION:waka-->
 
 
