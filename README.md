@@ -64,8 +64,8 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
 ## 👯‍👨 Connect with Me
 📱 **[WhatsApp](https://wa.me/+5515997204738)**
 💬 Feel free to reach out for collaborations or just to chat about tech!  
-📧 **[Email](mailto:your-email@example.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/your-profile)**  
+📧 **[Email](mailto:gabrielmaialva33@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/gabriel-maia-183984239)**  
 🐙 **[GitHub](https://github.com/gabrielmaialva33)**  
 🖊 **[Telegram](https://t.me/sr_mrootx)**
 
