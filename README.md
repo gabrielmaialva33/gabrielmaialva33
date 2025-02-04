@@ -47,8 +47,8 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
 
 ## 💼 Work Experience
 
-🔹 **Software Engineer** at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat">
-🔹 **Ex-Software Engineer** at [Yazo](https://yazo.com.br/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat">
+🔹 **Software Engineer** at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> <br>
+🔹 **Ex-Software Engineer** at [Yazo](https://yazo.com.br/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> <br>
 
 🚀 Building robust and scalable applications for the modern web.
 
