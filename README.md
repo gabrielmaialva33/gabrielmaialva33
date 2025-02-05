@@ -57,17 +57,15 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C190%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C199%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 371.7 kB Used in GitHub's Storage 
- > 
-> 🏆 738 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -132,7 +130,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2025 00:39:47 UTC
+ Last Updated on 05/02/2025 00:17:37 UTC
 <!--END_SECTION:waka-->
 
 ---
