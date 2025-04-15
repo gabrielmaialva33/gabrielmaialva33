@@ -57,11 +57,11 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C751%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C757%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,6 +75,47 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌆 Daytime                13212 commits       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌃 Evening                13691 commits       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌙 Night                  9882 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5997 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  8781 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Wednesday                5131 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Thursday                 6014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   5308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Saturday                 4617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Sunday                   7092 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JSON                     8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.27 % 
+TypeScript               5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+YAML                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+
+🔥 Editors: 
+WebStorm                 15 hrs 3 mins       ██████████████████░░░░░░░   71.49 % 
+VS Code                  6 hrs               ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+
+💻 Operating System: 
+Mac                      21 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -88,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2025 00:21:10 UTC
+ Last Updated on 15/04/2025 00:20:23 UTC
 <!--END_SECTION:waka-->
 
 ---
