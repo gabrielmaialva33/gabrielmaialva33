@@ -57,15 +57,15 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C942%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C943%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 390.3 kB Used in GitHub's Storage 
+> 📦 390.7 kB Used in GitHub's Storage 
  > 
 > 🏆 2,776 Contributions in the Year 2025
  > 
@@ -75,49 +75,6 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                10311 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-🌆 Daytime                20958 commits       ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌃 Evening                20777 commits       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌙 Night                  13822 commits       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   9061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Tuesday                  15443 commits       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Wednesday                8460 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Thursday                 8987 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Friday                   8208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Saturday                 5537 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Sunday                   10172 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               8 hrs 32 mins       █████████████░░░░░░░░░░░░   52.59 % 
-YAML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Rust                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-
-🔥 Editors: 
-WebStorm                 13 hrs 11 mins      ████████████████████░░░░░   81.19 % 
-RustRover                2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-PyCharm                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-💻 Operating System: 
-Mac                      16 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -131,7 +88,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 00:21:43 UTC
+ Last Updated on 08/05/2025 00:21:57 UTC
 <!--END_SECTION:waka-->
 
 ---
