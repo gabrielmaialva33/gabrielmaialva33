@@ -57,17 +57,17 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C262%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C274%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 408.1 kB Used in GitHub's Storage 
  > 
-> 🏆 6,349 Contributions in the Year 2025
+> 🏆 6,350 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +75,47 @@ Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when ti
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                13689 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌆 Daytime                34535 commits       █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌃 Evening                27394 commits       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+🌙 Night                  16683 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   12888 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Tuesday                  22647 commits       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Wednesday                13171 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 14291 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Friday                   12377 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Saturday                 6597 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Sunday                   10330 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               28 hrs 3 mins       ███████████████░░░░░░░░░░   59.82 % 
+JSON                     6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+YAML                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+HTTP Request             2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Bash                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+
+🔥 Editors: 
+WebStorm                 31 hrs 57 mins      █████████████████░░░░░░░░   68.16 % 
+VS Code                  14 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.84 % 
+
+💻 Operating System: 
+Mac                      46 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -88,7 +129,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 00:25:39 UTC
+ Last Updated on 01/07/2025 00:27:37 UTC
 <!--END_SECTION:waka-->
 
 ---
