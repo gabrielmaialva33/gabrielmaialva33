@@ -10,6 +10,10 @@ Currently working at **Wave Technologies**, where I contribute to building cutti
 
 Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when time allows). 🚀
 
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+> *"The best way to learn is to build something awesome!"* - Maia
+
 ## 🏆 Achievements & Highlights
 
 - 💻 **6,354+ hours** of coding time tracked
@@ -280,11 +284,26 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ---
 
-## 👯‍👨 Connect with Me
-📧 **[Email](mailto:gabrielmaialva33@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/gabriel-maia-183984239)**  
-🐙 **[GitHub](https://github.com/gabrielmaialva33)**  
-🖊 **[Telegram](https://t.me/sr_mrootx)**
+## 👯‍♂️ Connect with Me
+
+<p align="center">
+  <a href="mailto:gabrielmaialva33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabrielmaialva33@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-maia-183984239">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Maia-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gabrielmaialva33">
+    <img src="https://img.shields.io/badge/GitHub-gabrielmaialva33-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/sr_mrootx">
+    <img src="https://img.shields.io/badge/Telegram-@sr__mrootx-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>💬 Feel free to reach out for collaborations, discussions, or just to say hi!</strong>
+</p>
 
 ---
 
