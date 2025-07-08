@@ -163,51 +163,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ---
 
-## 🌟 More About Me
-
-```typescript
-const maia = {
-    name: "Gabriel Maia Silva Moreira",
-    role: "Senior Software Developer",
-    location: "São Paulo, Brasil",
-    experience: "5+ years",
-
-    specializations: [
-        "MCP Server Development",
-        "VibeCode Professional",
-        "Backend Architecture",
-        "Cloud Infrastructure"
-    ],
-
-    currentFocus: [
-        "Model Context Protocol (MCP) Servers",
-        "VibeCode Development",
-        "Backend Development",
-        "Cloud Architecture",
-        "Open Source Projects",
-        "AI/ML Integration"
-    ],
-
-    languages: {
-        backend: ["Go", "Node.js", "TypeScript", "Python", "Java"],
-        frontend: ["React", "Next.js", "React Native", "Flutter"],
-        databases: ["PostgreSQL", "Redis", "MongoDB"],
-        cloud: ["AWS", "Azure", "GCP"],
-        specialized: ["MCP Protocol", "VibeCode"]
-    },
-
-    funFacts: [
-        "Started coding in 2014 with Basic",
-        "Self-taught developer",
-        "MCP Server specialist",
-        "VibeCode professional",
-        "Cat lover (but not a cat! 🐱)",
-        "Movie and music enthusiast"
-    ]
-};
-```
-
----
 
 ## 👯‍♂️ Let's Connect!
 
