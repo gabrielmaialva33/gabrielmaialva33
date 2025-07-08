@@ -2,147 +2,163 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center" alt="cat"/>
 </h1>
 
-🎩 Just a *Ca... Dev*! Not a Cat, but a Developer! Let's get to know me a little better.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Senior+Software+Developer;MCP+Server+Developer;VibeCode+Professional;Backend+Specialist;5%2B+Years+Experience" alt="Typing SVG" />
+</p>
 
-I'm a passionate Software Engineer who truly **loves what I do**. My journey started in 2014 with **Basic**, and from there, I explored **Java, C++, TypeScript, Go, Python, and more**. I love solving complex problems and architecting scalable applications.
+🎩 Just a *Ca... Dev*! Not a Cat, but a **Senior Software Developer**! Let's get to know me a little better.
+
+I'm a passionate **Senior Software Engineer** with **5+ years of experience** who truly **loves what I do**. My journey
+started in 2014 with **Basic**, and from there, I explored **Java, C++, TypeScript, Go, Python, and more**. I specialize
+in building scalable backend systems, architecting robust applications that serve millions of users, and developing
+cutting-edge **MCP (Model Context Protocol) servers**.
+
+Currently working as a **Senior Software Developer**
+at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/), where I develop high-performance
+APIs, cloud infrastructure solutions, and advanced **MCP server implementations**. I'm also a **VibeCode professional**,
+bringing innovative coding solutions to life.
 
 Outside the coding world, I enjoy **movies**, **music**, and **gaming** (when time allows). 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-### Languages, Databases & Tools
-<p>
-  <a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://gradle.org">
-    <img src="https://skillicons.dev/icons?i=gradle" />
-  </a>
-  <a href="https://redis.io">
-    <img src="https://skillicons.dev/icons?i=redis" />
-  </a>
-  <a href="https://www.mongodb.com">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://www.javascript.com">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</p>
+### 🔥 **Senior Software Developer** | [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)
+
+*February 2025 - Present | Campina, São Paulo (Remote)*
+
+- 🚀 Developing scalable APIs using **Go, Node.js, TypeScript, and Python**
+- ☁️ Architecture and deployment on **AWS and Azure** ensuring efficiency and security
+- 🗄️ Database modeling and **PostgreSQL** optimization for high availability
+- 📨 Implementing microservices with **RabbitMQ** for messaging
+- 🔧 Infrastructure improvements with **CI/CD** best practices
+- 🤖 Building and maintaining **MCP (Model Context Protocol) servers**
+- ✨ **VibeCode** development and implementation
+
+### 💻 **Backend Developer** | [Yazo](https://yazo.com.br/)
+
+*November 2020 - February 2025 | Londrina, Paraná (Remote)*
+
+- 📈 Built scalable applications serving **5+ million active users**
+- 🔌 Created and maintained **RESTful and GraphQL APIs** using Node.js, Go, and TypeScript
+- ⚡ Implemented asynchronous queues and events with **Redis** for high performance
+- 💰 Collaborated in reducing cloud operational costs through optimized strategies
+- 🚀 Deployed and maintained applications on **AWS, Google Play, and Apple Store**
+- 🛠️ Created **Yazo CLI** - automation tool for publications
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Tech Stack
 
-🔹 **Software Engineer** at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> <br>
-🔹 **Ex-Software Engineer** at [Yazo](https://yazo.com.br/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="cat"> <br>
+### Backend & Cloud
 
-🚀 Building robust and scalable applications for the modern web.
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python,typescript,java" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwindcss,html,css" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
+
+### AI & Specialized
+
+<p>
+  <img src="https://img.shields.io/badge/MCP%20Server-FF6B6B?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP Server"/>
+  <img src="https://img.shields.io/badge/VibeCode-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="VibeCode"/>
+  <img src="https://img.shields.io/badge/AI%20Integration-45B7D1?style=for-the-badge&logo=brain&logoColor=white" alt="AI Integration"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C354%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 408.6 kB Used in GitHub's Storage 
- > 
-> 🏆 6,966 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 82 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                18601 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-🌆 Daytime                48166 commits       ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌃 Evening                37394 commits       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-🌙 Night                  22160 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   17821 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Tuesday                  32211 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Wednesday                17712 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Thursday                 20186 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Friday                   17187 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 8055 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   13149 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               56 hrs 4 mins       █████████████████░░░░░░░░   67.30 % 
-JSON                     5 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-YAML                     4 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-SQL                      4 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Bash                     4 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-
-🔥 Editors: 
-VS Code                  51 hrs 14 mins      ███████████████░░░░░░░░░░   61.49 % 
-WebStorm                 31 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.65 % 
-Postman                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Mac                      83 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               50 repos            ██████████████░░░░░░░░░░░   54.95 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-
-
-
- Last Updated on 08/07/2025 00:27:11 UTC
 <!--END_SECTION:waka-->
 
 ---
 
-## 👯‍👨 Connect with Me
-📧 **[Email](mailto:gabrielmaialva33@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/gabriel-maia-183984239)**  
-🐙 **[GitHub](https://github.com/gabrielmaialva33)**  
-🖊 **[Telegram](https://t.me/sr_mrootx)**
+## 🌟 More About Me
+
+```typescript
+const maia = {
+    name: "Gabriel Maia Silva Moreira",
+    role: "Senior Software Developer",
+    location: "São Paulo, Brasil",
+    experience: "5+ years",
+
+    specializations: [
+        "MCP Server Development",
+        "VibeCode Professional",
+        "Backend Architecture",
+        "Cloud Infrastructure"
+    ],
+
+    currentFocus: [
+        "Model Context Protocol (MCP) Servers",
+        "VibeCode Development",
+        "Backend Development",
+        "Cloud Architecture",
+        "Open Source Projects",
+        "AI/ML Integration"
+    ],
+
+    languages: {
+        backend: ["Go", "Node.js", "TypeScript", "Python", "Java"],
+        frontend: ["React", "Next.js", "React Native", "Flutter"],
+        databases: ["PostgreSQL", "Redis", "MongoDB"],
+        cloud: ["AWS", "Azure", "GCP"],
+        specialized: ["MCP Protocol", "VibeCode"]
+    },
+
+    funFacts: [
+        "Started coding in 2014 with Basic",
+        "Self-taught developer",
+        "MCP Server specialist",
+        "VibeCode professional",
+        "Cat lover (but not a cat! 🐱)",
+        "Movie and music enthusiast"
+    ]
+};
+```
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/gray0_ctp_on_line.svg?sanitize=true" /></p>
-<p align="center">&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a></p>
+## 👯‍♂️ Let's Connect!
+
+<p align="center">
+  <a href="mailto:gabrielmaialva33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-maia-183984239">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gabrielmaialva33">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/sr_mrootx">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielmaialva33&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+<p align="center">&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a> | Made with ❤️ and lots of ☕</p>
