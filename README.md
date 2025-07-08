@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Just+a+Ca...+Dev!+Not+a+Cat!;Senior+Software+Developer;MCP+Server+Specialist;VibeCode+Professional;Plot+Twist:+I'm+NOT+a+Cat!;Coffee+to+Code+Converter;Night+Owl+Developer;Turning+Bugs+into+Features;5%2B+Years+of+Pure+Magic;From+Basic+to+Brilliant!;Self-Taught+Coding+Wizard;Cat+Envy:+Girls+Don't+Fight+Them;Movies+Music+Gaming+Enthusiast;Riding+the+Wave+of+Tech;Redis+Faster+Than+Cat+Reflexes;Still+Learning+Human+Things;Making+Databases+Purr;18.1M+Lines+of+Code+Written;CI/CD+Automated+Like+Cats;Innovation+is+My+Middle+Name" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Just+a+Ca...+Dev!;🚀+Senior+Software+Developer;🤖+MCP+Server+Specialist;✨+VibeCode+Professional;🐱+Not+a+Cat%2C+but+a+Developer!;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🐾+Cat+Envy:+Girls+Don't+Fight+Them;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;🔧+CI%2FCD+Like+Cat+Reflexes;💡+Innovation+is+My+Game" alt="Typing SVG" />
 </h1>
 </div>
 
