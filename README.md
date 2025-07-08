@@ -4,8 +4,8 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Just+a+Ca...+Dev!;🚀+Senior+Software+Developer;🤖+MCP+Server+Specialist;✨+VibeCode+Professional;🐱+Not+a+Cat%2C+but+a+Developer!" alt="Typing SVG" />
-  </h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Just+a+Ca...+Dev!+Not+a+Cat!;Senior+Software+Developer;MCP+Server+Specialist;VibeCode+Professional;Plot+Twist:+I'm+NOT+a+Cat!;Coffee+to+Code+Converter;Night+Owl+Developer;Turning+Bugs+into+Features;5%2B+Years+of+Pure+Magic;From+Basic+to+Brilliant!;Self-Taught+Coding+Wizard;Cat+Envy:+Girls+Don't+Fight+Them;Movies+Music+Gaming+Enthusiast;Riding+the+Wave+of+Tech;Redis+Faster+Than+Cat+Reflexes;Still+Learning+Human+Things;Making+Databases+Purr;18.1M+Lines+of+Code+Written;CI/CD+Automated+Like+Cats;Innovation+is+My+Middle+Name" alt="Typing SVG" />
+</h1>
 </div>
 
 <div align="center">
@@ -36,29 +36,34 @@
 ---
 
 <div align="center">
-  
+
 ## 🎭 About This Mysterious Developer
 
 <details>
 <summary>🎩 Click to reveal the mystery...</summary>
 
 <div align="left">
-  
+
 ```ascii
     /\_/\  
    ( o.o ) 
     > ^ <    "I'm not a cat, I'm a developer!" 
 ```
 
-**🎯 Plot Twist:** Started as a cat, evolved into a **Senior Software Engineer** with **5+ years** of turning coffee into code!
+**🎯 Plot Twist:** Started as a cat, evolved into a **Senior Software Engineer** with **5+ years** of turning coffee into
+code!
 
-**🚀 The Journey:** From **Basic** in 2014 to mastering **Go, TypeScript, Python, Java, C++** and beyond. Now specializing in:
+**🚀 The Journey:** From **Basic** in 2014 to mastering **Go, TypeScript, Python, Java, C++** and beyond. Now
+specializing in:
+
 - 🏗️ **Scalable backend systems** that handle millions of users
 - 🤖 **MCP (Model Context Protocol) servers** - because protocols are purr-fect
 - ✨ **VibeCode development** - making code vibes immaculate
 - ☁️ **Cloud architecture** that floats like a cloud, stings like a bee
 
-**🎪 Current Role:** Senior Software Developer at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/) where I surf the waves of technology! 🏄‍♂️
+**🎪 Current Role:** Senior Software Developer
+at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/) where I surf the waves of
+technology! 🏄‍♂️
 
 **🎮 When Not Coding:** Movies, music, gaming (and definitely not chasing laser pointers... or am I? 👀)
 
@@ -69,67 +74,72 @@
 
 ---
 
-<div align="center">
-  
 ## 💼 Professional Journey
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔥_Senior_Software_Developer-Wave_Technologies-FF6B6B?style=for-the-badge&logo=wave&logoColor=white" />
-      <br><br>
-      <strong>February 2025 - Present</strong><br>
-      <em>Campina, São Paulo (Remote)</em>
-      <br><br>
-      
-      **🚀 What I'm cooking:**
-      
-      ```typescript
-      const dailyTasks = {
-        morning: "☕ Coffee + Go/Node.js APIs",
-        afternoon: "☁️ AWS/Azure architecture",
-        evening: "🤖 MCP server magic",
-        night: "✨ VibeCode innovations"
-      };
-      ```
-      
-      - 🗄️ **PostgreSQL** optimization (making databases purr)
-      - 📨 **RabbitMQ** microservices (hopping between services)
-      - 🔧 **CI/CD** improvements (automated like a cat's reflexes)
-      
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/💻_Backend_Developer-Yazo-4ECDC4?style=for-the-badge&logo=code&logoColor=white" />
-      <br><br>
-      <strong>November 2020 - February 2025</strong><br>
-      <em>Londrina, Paraná (Remote)</em>
-      <br><br>
-      
-      **📈 The epic stats:**
-      
-      ```javascript
-      const achievements = {
-        users: "5+ million active users",
-        apis: "RESTful + GraphQL mastery",
-        performance: "Redis-powered lightning",
-        savings: "Cloud costs optimized",
-        creation: "Yazo CLI born"
-      };
-      ```
-      
-      - 🚀 **AWS, Google Play, Apple Store** deployments
-      - ⚡ **Redis** for performance that's faster than a cat's pounce
-      
-    </td>
-  </tr>
-</table>
+### 🔥 **Senior Software Developer** | [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)
 
+**February 2025 - Present | Campina, São Paulo (Remote)**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥_Current_Role-Wave_Technologies-FF6B6B?style=for-the-badge&logo=wave&logoColor=white" />
 </div>
+
+#### 🚀 What I'm cooking:
+
+```typescript
+const dailyTasks = {
+    morning: "☕ Coffee + Go/Node.js APIs",
+    afternoon: "☁️ AWS/Azure architecture",
+    evening: "🤖 MCP server magic",
+    night: "✨ VibeCode innovations"
+};
+```
+
+**Key Responsibilities:**
+
+- 🚀 Developing scalable APIs using **Go, Node.js, TypeScript, and Python**
+- ☁️ Architecture and deployment on **AWS and Azure** ensuring efficiency and security
+- 🗄️ Database modeling and **PostgreSQL** optimization (making databases purr)
+- 📨 Implementing microservices with **RabbitMQ** (hopping between services)
+- 🔧 Infrastructure improvements with **CI/CD** (automated like a cat's reflexes)
+- 🤖 Building and maintaining **MCP (Model Context Protocol) servers**
+- ✨ **VibeCode** development and implementation
+
+---
+
+### 💻 **Backend Developer** | [Yazo](https://yazo.com.br/)
+
+**November 2020 - February 2025 | Londrina, Paraná (Remote)**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💻_Previous_Role-Yazo-4ECDC4?style=for-the-badge&logo=code&logoColor=white" />
+</div>
+
+#### 📈 The epic stats:
+
+```javascript
+const achievements = {
+    users: "5+ million active users",
+    apis: "RESTful + GraphQL mastery",
+    performance: "Redis-powered lightning",
+    savings: "Cloud costs optimized",
+    creation: "Yazo CLI born"
+};
+```
+
+**Major Achievements:**
+
+- 📈 Built scalable applications serving **5+ million active users**
+- 🔌 Created and maintained **RESTful and GraphQL APIs** using Node.js, Go, and TypeScript
+- ⚡ Implemented asynchronous queues and events with **Redis** (faster than a cat's pounce)
+- 💰 Collaborated in reducing cloud operational costs through optimized strategies
+- 🚀 Deployed and maintained applications on **AWS, Google Play, and Apple Store**
+- 🛠️ Created **Yazo CLI** - automation tool for publications
 
 ---
 
 <div align="center">
-  
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -185,7 +195,7 @@
 ---
 
 <div align="center">
-  
+
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
@@ -195,19 +205,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 408.9 kB Used in GitHub's Storage 
- > 
+> 📦 408.9 kB Used in GitHub's Storage
+>
 > 🏆 7,060 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 82 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 82 Public Repositories
+>
+> 🔑 10 Private Repositories
+>
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                9234 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
@@ -215,7 +225,8 @@
 🌃 Evening                18825 commits       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
 🌙 Night                  12450 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   9297 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
@@ -227,7 +238,7 @@ Saturday                 5391 commits        ██░░░░░░░░░�
 Sunday                   7981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 ```
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Sao_Paulo
@@ -249,7 +260,7 @@ Cursor                   1 min               ░░░░░░░░░░░�
 Mac                      78 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
 TypeScript               50 repos            ██████████████░░░░░░░░░░░   54.95 % 
@@ -267,7 +278,7 @@ Last Updated on 08/07/2025 20:20:08 UTC
 ---
 
 <div align="center">
-  
+
 ## 🎮 Fun Developer Facts
 
 <table>
@@ -301,14 +312,14 @@ Last Updated on 08/07/2025 20:20:08 UTC
 
 ```typescript
 const developerSecrets = {
-  favoriteHours: "Night owl 🦉 (19.38% of commits at night)",
-  mostProductiveDay: "Tuesday (21.57% of commits)",
-  currentObsession: "MCP servers and VibeCode",
-  hiddenTalent: "Making databases purr like cats",
-  superPower: "Converting coffee to code at 99.9% efficiency",
-  weekendActivity: "Pretending to rest while thinking about code",
-  catEnvy: "Jealous of cats because girls don't fight with them 😅",
-  realityCheck: "Still figuring out this whole 'being human' thing"
+    favoriteHours: "Night owl 🦉 (19.38% of commits at night)",
+    mostProductiveDay: "Tuesday (21.57% of commits)",
+    currentObsession: "MCP servers and VibeCode",
+    hiddenTalent: "Making databases purr like cats",
+    superPower: "Converting coffee to code at 99.9% efficiency",
+    weekendActivity: "Pretending to rest while thinking about code",
+    catEnvy: "Jealous of cats because girls don't fight with them 😅",
+    realityCheck: "Still figuring out this whole 'being human' thing"
 };
 ```
 
@@ -319,7 +330,7 @@ const developerSecrets = {
 ---
 
 <div align="center">
-  
+
 ## 🌐 Connect with the Cat Developer
 
 <div align="center">
@@ -349,14 +360,6 @@ const developerSecrets = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/master/assets/gray0_ctp_on_line.svg?sanitize=true" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     &nbsp; Made with ❤️, lots of ☕, and a touch of 🐱 magic
@@ -364,3 +367,8 @@ const developerSecrets = {
     <sup>&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a></sup>
   </h3>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
+
