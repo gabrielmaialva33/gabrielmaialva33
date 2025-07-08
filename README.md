@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Just+a+Ca...+Dev!;🚀+Senior+Software+Developer;🤖+MCP+Server+Specialist;✨+VibeCode+Professional;🐱+Not+a+Cat%2C+but+a+Developer!;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🐾+Cat+Envy:+Girls+Don't+Fight+Them;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;🔧+CI%2FCD+Like+Cat+Reflexes;💡+Innovation+is+My+Game" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Just+a+Ca...+Dev!;🚀+Senior+Software+Developer;🤖+MCP+Server+Specialist;✨+VibeCode+Professional;🐱+Not+a+Cat%2C+but+a+Developer!;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🐾+Cat+Envy:+Girls+Don't+Fight+Them;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;🔧+CI%2FCD+Like+Cat+Reflexes;💡+Innovation+is+My+Game;💀+Debug+Till+I+Die;🩸+My+Code+Bleeds+Excellence;⚰️+Killed+More+Bugs+Than+Raid;🔪+Slicing+Through+Legacy+Code;💊+Addicted+to+Clean+Architecture;🧟+Zombie+Mode:+Coding+at+3AM;💉+Injecting+Dependencies+Daily;🪦+RIP+My+Social+Life;🔥+Burning+Midnight+Oil+Since+2014;💣+Exploding+Expectations+Daily" alt="Typing SVG" />
 </h1>
 </div>
 
@@ -50,22 +50,17 @@
     > ^ <    "I'm not a cat, I'm a developer!" 
 ```
 
-**🎯 Plot Twist:** Started as a cat, evolved into a **Senior Software Engineer** with **5+ years** of turning coffee into
-code!
+**🎯 Plot Twist:** Started as a cat in 2014 with **Basic**, evolved into a **Senior Software Engineer** with **5+ years** of turning coffee into existential crisis... I mean, code! 💀
 
-**🚀 The Journey:** From **Basic** in 2014 to mastering **Go, TypeScript, Python, Java, C++** and beyond. Now
-specializing in:
+**🚀 The Journey:** From **Basic** to **Go, TypeScript, Python, Java, C++**. Now specializing in:
+- 🏗️ **Scalable backend systems** (because my life doesn't scale)
+- 🤖 **MCP servers** (more reliable than my sleep schedule)
+- ✨ **VibeCode** (better vibes than my Monday mornings)
+- ☁️ **Cloud architecture** (higher than my stress levels)
 
-- 🏗️ **Scalable backend systems** that handle millions of users
-- 🤖 **MCP (Model Context Protocol) servers** - because protocols are purr-fect
-- ✨ **VibeCode development** - making code vibes immaculate
-- ☁️ **Cloud architecture** that floats like a cloud, stings like a bee
+**🎪 Current Gig:** Senior Software Developer at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/) - surfing waves while drowning in coffee! 🏄‍♂️☕
 
-**🎪 Current Role:** Senior Software Developer
-at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/) where I surf the waves of
-technology! 🏄‍♂️
-
-**🎮 When Not Coding:** Movies, music, gaming (and definitely not chasing laser pointers... or am I? 👀)
+**🎮 When Not Coding:** Movies, music, gaming (and questioning life choices)
 
 </div>
 </details>
@@ -77,64 +72,30 @@ technology! 🏄‍♂️
 ## 💼 Professional Journey
 
 ### 🔥 **Senior Software Developer** | [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)
-
 **February 2025 - Present | Campina, São Paulo (Remote)**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_Current_Role-Wave_Technologies-FF6B6B?style=for-the-badge&logo=wave&logoColor=white" />
-</div>
-
-#### 🚀 What I'm cooking:
-
 ```typescript
-const dailyTasks = {
-    morning: "☕ Coffee + Go/Node.js APIs",
-    afternoon: "☁️ AWS/Azure architecture",
-    evening: "🤖 MCP server magic",
-    night: "✨ VibeCode innovations"
+const currentLife = {
+  morning: "☕ Coffee + Existential Crisis",
+  afternoon: "☁️ AWS/Azure (and anxiety)",
+  evening: "🤖 MCP server magic",
+  night: "✨ VibeCode (and insomnia)"
 };
 ```
-
-**Key Responsibilities:**
-
-- 🚀 Developing scalable APIs using **Go, Node.js, TypeScript, and Python**
-- ☁️ Architecture and deployment on **AWS and Azure** ensuring efficiency and security
-- 🗄️ Database modeling and **PostgreSQL** optimization (making databases purr)
-- 📨 Implementing microservices with **RabbitMQ** (hopping between services)
-- 🔧 Infrastructure improvements with **CI/CD** (automated like a cat's reflexes)
-- 🤖 Building and maintaining **MCP (Model Context Protocol) servers**
-- ✨ **VibeCode** development and implementation
 
 ---
 
 ### 💻 **Backend Developer** | [Yazo](https://yazo.com.br/)
-
 **November 2020 - February 2025 | Londrina, Paraná (Remote)**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/💻_Previous_Role-Yazo-4ECDC4?style=for-the-badge&logo=code&logoColor=white" />
-</div>
-
-#### 📈 The epic stats:
-
 ```javascript
-const achievements = {
-    users: "5+ million active users",
-    apis: "RESTful + GraphQL mastery",
-    performance: "Redis-powered lightning",
-    savings: "Cloud costs optimized",
-    creation: "Yazo CLI born"
+const pastLife = {
+  achievement: "5+ million users survived my code",
+  trauma: "Legacy code that haunts my dreams",
+  therapy: "Redis for the pain",
+  graduation: "Yazo CLI - my digital offspring"
 };
 ```
-
-**Major Achievements:**
-
-- 📈 Built scalable applications serving **5+ million active users**
-- 🔌 Created and maintained **RESTful and GraphQL APIs** using Node.js, Go, and TypeScript
-- ⚡ Implemented asynchronous queues and events with **Redis** (faster than a cat's pounce)
-- 💰 Collaborated in reducing cloud operational costs through optimized strategies
-- 🚀 Deployed and maintained applications on **AWS, Google Play, and Apple Store**
-- 🛠️ Created **Yazo CLI** - automation tool for publications
 
 ---
 
@@ -145,7 +106,7 @@ const achievements = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,nodejs,python,typescript,java,cpp&theme=dark" />
   <br>
-  <sup><em>Backend Languages - The purr-fect stack</em></sup>
+  <sup><em>Backend Languages - My weapons of choice</em></sup>
 </div>
 
 <br>
@@ -153,7 +114,7 @@ const achievements = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark" />
   <br>
-  <sup><em>Cloud & Infrastructure - Floating in the cloud</em></sup>
+  <sup><em>Cloud & Infrastructure - Where dreams go to die</em></sup>
 </div>
 
 <br>
@@ -161,7 +122,7 @@ const achievements = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq,kafka,elasticsearch&theme=dark" />
   <br>
-  <sup><em>Databases & Messaging - Data purr-sistence</em></sup>
+  <sup><em>Databases & Messaging - My data overlords</em></sup>
 </div>
 
 <br>
@@ -169,7 +130,7 @@ const achievements = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
   <br>
-  <sup><em>Frontend & Mobile - Making things pretty</em></sup>
+  <sup><em>Frontend & Mobile - Making things less ugly</em></sup>
 </div>
 
 <br>
@@ -177,7 +138,7 @@ const achievements = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
   <br>
-  <sup><em>Tools & DevOps - The developer's toolkit</em></sup>
+  <sup><em>Tools & DevOps - My survival kit</em></sup>
 </div>
 
 <br>
@@ -187,7 +148,7 @@ const achievements = {
   <img src="https://img.shields.io/badge/✨_VibeCode-4ECDC4?style=for-the-badge&logo=sparkles&logoColor=white" />
   <img src="https://img.shields.io/badge/🧠_AI_Integration-45B7D1?style=for-the-badge&logo=brain&logoColor=white" />
   <br>
-  <sup><em>Specialized Skills - The secret sauce</em></sup>
+  <sup><em>Specialized Skills - The forbidden arts</em></sup>
 </div>
 
 </div>
@@ -199,78 +160,6 @@ const achievements = {
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C367%20hrs%2015%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 408.9 kB Used in GitHub's Storage
->
-> 🏆 7,060 Contributions in the Year 2025
->
-> 💼 Opted to Hire
->
-> 📜 82 Public Repositories
->
-> 🔑 10 Private Repositories
->
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                9234 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-🌆 Daytime                23741 commits       █████████░░░░░░░░░░░░░░░░   36.95 % 
-🌃 Evening                18825 commits       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-🌙 Night                  12450 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-```
-
-📅 **I'm Most Productive on Tuesday**
-
-```text
-Monday                   9297 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  13861 commits       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Wednesday                9066 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 10398 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Friday                   8256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Saturday                 5391 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Sunday                   7981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               48 hrs 15 mins      ███████████████░░░░░░░░░░   61.75 % 
-JSON                     5 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-YAML                     5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Bash                     5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-SQL                      4 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-
-🔥 Editors: 
-VS Code                  48 hrs 6 mins       ███████████████░░░░░░░░░░   61.56 % 
-WebStorm                 29 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-Postman                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Mac                      78 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript**
-
-```text
-TypeScript               50 repos            ██████████████░░░░░░░░░░░   54.95 % 
-Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-Last Updated on 08/07/2025 20:20:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
@@ -279,47 +168,49 @@ Last Updated on 08/07/2025 20:20:08 UTC
 
 <div align="center">
 
-## 🎮 Fun Developer Facts
+## 🎮 Developer Dark Facts
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🎯_Started_Coding-2014_with_Basic-FF6B6B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/💀_Debugging-Since_2014-FF6B6B?style=for-the-badge" />
       <br><br>
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
       <br>
-      <em>From Basic to Brilliant!</em>
+      <em>From Basic to Burnout!</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🎓_Self_Taught-Autodidact_Power-4ECDC4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🧟_Self_Taught-Zombie_Mode-4ECDC4?style=for-the-badge" />
       <br><br>
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
       <br>
-      <em>Learning never stops!</em>
+      <em>Learning never stops... neither do I!</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🐱_Cat_Envy-Girls_Don't_Fight_With_Cats-45B7D1?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🐱_Cat_Envy-They_Have_9_Lives-45B7D1?style=for-the-badge" />
       <br><br>
       <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" />
       <br>
-      <em>The real mystery solved!</em>
+      <em>I only have 1 life and 0 sleep!</em>
     </td>
   </tr>
 </table>
 
 <details>
-<summary>🎪 Click for more developer secrets...</summary>
+<summary>🪦 Click for dark developer secrets...</summary>
 
 ```typescript
-const developerSecrets = {
-    favoriteHours: "Night owl 🦉 (19.38% of commits at night)",
-    mostProductiveDay: "Tuesday (21.57% of commits)",
-    currentObsession: "MCP servers and VibeCode",
-    hiddenTalent: "Making databases purr like cats",
-    superPower: "Converting coffee to code at 99.9% efficiency",
-    weekendActivity: "Pretending to rest while thinking about code",
-    catEnvy: "Jealous of cats because girls don't fight with them 😅",
-    realityCheck: "Still figuring out this whole 'being human' thing"
+const darkSecrets = {
+  favoriteHours: "3AM debugging sessions 🧟",
+  mostProductiveDay: "Tuesday (probably caffeine overdose)",
+  currentObsession: "MCP servers and existential dread",
+  hiddenTalent: "Making databases cry",
+  superPower: "Converting coffee to depression... I mean, code",
+  weekendActivity: "Pretending to have work-life balance",
+  catEnvy: "Cats sleep 16h/day, I sleep 4h/day 😭",
+  realityCheck: "Still figuring out this whole 'being human' thing",
+  codingTrauma: "Legacy code that haunts my dreams",
+  therapySession: "Stack Overflow is my therapist"
 };
 ```
 
@@ -331,20 +222,20 @@ const developerSecrets = {
 
 <div align="center">
 
-## 🌐 Connect with the Cat Developer
+## 🌐 Connect with the Suffering Developer
 
 <div align="center">
   <a href="mailto:gabrielmaialva33@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Let's_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-Send_Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-maia-183984239">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Vibes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Facade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/gabrielmaialva33">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Code_Universe-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐙_GitHub-Code_Cemetery-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://t.me/sr_mrootx">
-    <img src="https://img.shields.io/badge/📱_Telegram-Quick_Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/📱_Telegram-Quick_Therapy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
@@ -362,13 +253,12 @@ const developerSecrets = {
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    &nbsp; Made with ❤️, lots of ☕, and a touch of 🐱 magic
+    &nbsp; Made with ❤️, lots of ☕, and a touch of 💀 existential dread
     <br>
-    <sup>&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a></sup>
+    <sup>&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a> | Still alive... barely</sup>
   </h3>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
-
