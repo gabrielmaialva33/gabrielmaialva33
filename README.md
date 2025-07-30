@@ -160,67 +160,24 @@ const pastLife = {
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C535%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C561%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 413.0 kB Used in GitHub's Storage 
+> 📦 418.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7,757 Contributions in the Year 2025
+> 🏆 7,870 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 85 Public Repositories 
+> 📜 84 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21818 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-🌆 Daytime                57432 commits       █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                46524 commits       ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌙 Night                  26657 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   22219 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Tuesday                  36188 commits       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Wednesday                21173 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Thursday                 26513 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Friday                   21603 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Saturday                 9432 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Sunday                   15303 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               28 hrs              ████████████████░░░░░░░░░   63.18 % 
-YAML                     5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Markdown                 3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Bash                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-
-🔥 Editors: 
-WebStorm                 25 hrs 54 mins      ███████████████░░░░░░░░░░   58.47 % 
-VS Code                  18 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.21 % 
-PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Mac                      44 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -234,7 +191,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 01:38:17 UTC
+ Last Updated on 30/07/2025 01:34:22 UTC
 <!--END_SECTION:waka-->
 
 </div>
