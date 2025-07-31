@@ -160,38 +160,38 @@ const pastLife = {
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C561%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C571%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 418.0 kB Used in GitHub's Storage 
+> 📦 418.6 kB Used in GitHub's Storage 
  > 
-> 🏆 7,870 Contributions in the Year 2025
+> 🏆 8,082 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 84 Public Repositories 
+> 📜 85 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               51 repos            ██████████████░░░░░░░░░░░   54.26 % 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               52 repos            ██████████████░░░░░░░░░░░   54.74 % 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
 
 
- Last Updated on 30/07/2025 01:34:22 UTC
+ Last Updated on 31/07/2025 01:30:52 UTC
 <!--END_SECTION:waka-->
 
 </div>
