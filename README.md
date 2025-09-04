@@ -33,6 +33,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmaialva33&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Cat%20Developer's%20Contribution%20Graph" width="800" />
 </div>
 
+<div align="center">
+  <h2>🎮 3D Contribution Calendar</h2>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" />
+</div>
+
 ---
 
 <div align="center">
