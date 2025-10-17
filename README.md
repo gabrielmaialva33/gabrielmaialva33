@@ -165,17 +165,17 @@ const pastLife = {
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C037%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C047%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 572.6 kB Used in GitHub's Storage 
+> 📦 572.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16,289 Contributions in the Year 2025
+> 🏆 16,312 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -183,6 +183,48 @@ const pastLife = {
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7041 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+🌆 Daytime                17848 commits       █████████░░░░░░░░░░░░░░░░   36.71 % 
+🌃 Evening                14948 commits       ████████░░░░░░░░░░░░░░░░░   30.75 % 
+🌙 Night                  8778 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   5832 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Tuesday                  5518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Wednesday                6282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Thursday                 8115 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Friday                   6295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Saturday                 6111 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   10462 commits       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               10 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Bash                     6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+YAML                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JavaScript               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+GitIgnore file           1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+
+🔥 Editors: 
+WebStorm                 30 hrs 42 mins      ████████████████████████░   94.38 % 
+VS Code                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+PyCharm                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+
+💻 Operating System: 
+Mac                      32 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -196,7 +238,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2025 00:27:40 UTC
+ Last Updated on 17/10/2025 00:31:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
