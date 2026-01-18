@@ -77,7 +77,7 @@
 ## 💼 Professional Journey
 
 ### 🔥 **Senior Software Developer** | [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)
-**February 2025 - Present | Campina, São Paulo (Remote)**
+**February 2025 - February 2026 | Campina, São Paulo (Remote)**
 
 ```typescript
 const currentLife = {
