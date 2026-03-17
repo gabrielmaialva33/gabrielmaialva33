@@ -165,80 +165,38 @@ const pastLife = {
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C249%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C250%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 917.4 kB Used in GitHub's Storage 
+> 📦 917.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,457 Contributions in the Year 2026
+> 🏆 1,481 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 127 Public Repositories 
+> 📜 128 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7496 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-🌆 Daytime                19585 commits       █████████░░░░░░░░░░░░░░░░   35.90 % 
-🌃 Evening                17819 commits       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-🌙 Night                  9653 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   6726 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Tuesday                  6093 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Wednesday                6910 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 8857 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Friday                   7086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Saturday                 6758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Sunday                   12123 commits       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Markdown                 3 hrs 21 mins       █████████████░░░░░░░░░░░░   52.05 % 
-TeX                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Python                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-LaTeX source file        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-
-🔥 Editors: 
-WebStorm                 4 hrs               ████████████████░░░░░░░░░   62.13 % 
-VS Code                  2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-Antigravity              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-
-💻 Operating System: 
-Linux                    6 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               58 repos            ███████████░░░░░░░░░░░░░░   42.65 % 
-Python                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Gleam                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-C                        2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               59 repos            ███████████░░░░░░░░░░░░░░   43.07 % 
+Python                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Gleam                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+C                        2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 
 
 
- Last Updated on 16/03/2026 00:36:52 UTC
+ Last Updated on 17/03/2026 00:35:41 UTC
 <!--END_SECTION:waka-->
 
 </div>
