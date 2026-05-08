@@ -431,30 +431,30 @@ const yazoYears = {
 
 ## 📊 GitHub Stats Deep Dive
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmaialva33&theme=tokyonight" width="98%" />
+
 <table>
 <tr>
-<td valign="top" width="50%" rowspan="3">
+<td valign="top" width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmaialva33&theme=tokyonight" width="100%" />
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmaialva33&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielmaialva33&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmaialva33&theme=tokyonight" width="100%" />
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielmaialva33&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielmaialva33&theme=tokyonight&utcOffset=-3" width="100%" />
 
 </td>
 </tr>
