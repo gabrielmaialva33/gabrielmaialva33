@@ -1,168 +1,375 @@
+<!--
+  ╭─────────────────────────────────────────────────────────╮
+  │  Gabriel Maia · Senior Software Developer · 2017-Present │
+  │  Tokyo Night theme · Brazil 🇧🇷 · MCP & Agentic Specialist │
+  ╰─────────────────────────────────────────────────────────╯
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maia's%20Universe&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,30:24283b,70:7aa2f7,100:bb9af7&height=240&section=header&text=Maia's%20Universe&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=c0caf5&desc=The%20Black%20Cat%20Developer%20·%20MCP%20·%20Agentic%20·%20Cloud&descAlignY=62&descSize=18" />
 </div>
 
 <div align="center">
-  <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Just+a+Ca...+Dev!;🚀+Senior+Software+Developer;🤖+MCP+Server+Specialist;✨+VibeCode+Professional;🐱+Not+a+Cat%2C+but+a+Developer!;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🐾+Cat+Envy:+Girls+Don't+Fight+Them;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;🔧+CI%2FCD+Like+Cat+Reflexes;💡+Innovation+is+My+Game;💀+Debug+Till+I+Die;🩸+My+Code+Bleeds+Excellence;⚰️+Killed+More+Bugs+Than+Raid;🔪+Slicing+Through+Legacy+Code;💊+Addicted+to+Clean+Architecture;🧟+Zombie+Mode:+Coding+at+3AM;💉+Injecting+Dependencies+Daily;🪦+RIP+My+Social+Life;🔥+Burning+Midnight+Oil+Since+2014;💣+Exploding+Expectations+Daily" alt="Typing SVG" />
-</h1>
+
+<a href="https://github.com/gabrielmaialva33"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=7AA2F7&center=true&vCenter=true&width=720&height=70&lines=Senior+Software+Developer+%E2%9C%A8;MCP+%26+Agentic+Systems+Specialist+%F0%9F%A4%96;From+Basic+(2014)+to+Rust+(2026)+%F0%9F%A6%80;Building+Scalable+Backends+at+%40DrConsulta+%E2%9A%A1;Coffee+%E2%86%92+Code+%E2%86%92+Production+%E2%86%92+Repeat;5%2B+Years+%C2%B7+27.38M%2B+Lines+of+Code+%F0%9F%93%8A;Night+Owl+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+Rust;Not+a+Cat+%E2%80%94+Just+a+Developer+%F0%9F%90%BE" alt="Typing SVG" /></a>
+
+<br/>
+
+<img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="110" />
+
+<sub><em>The legendary black cat that's actually a developer</em></sub>
+
+<br/><br/>
+
+<a href="mailto:gabrielmaialva33@gmail.com"><img src="https://img.shields.io/badge/-Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://www.linkedin.com/in/gabriel-maia-183984239"><img src="https://img.shields.io/badge/-LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://t.me/sr_mrootx"><img src="https://img.shields.io/badge/-Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://github.com/gabrielmaialva33"><img src="https://img.shields.io/badge/-Follow-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gabrielmaialva33&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/gabrielmaialva33?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/Status-Opted%20to%20Hire-9ece6a?style=for-the-badge&labelColor=1a1b27" />
+
 </div>
 
-<div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="100" height="120" />
-  <br>
-  <sup><em>The legendary black cat that's actually a developer! 🐾</em></sup>
-</div>
+<br/>
 
-<br>
+<!-- ═══════════════ HERO STATS ═══════════════ -->
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmaialva33&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" width="400" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmaialva33&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Cat%20Developer's%20Contribution%20Graph" width="800" />
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<div align="center">
-  <h2>🎮 3D Contribution Calendar</h2>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=gabrielmaialva33&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideNums=c0caf5&dates=565f89&sideLabels=7aa2f7&currStreakNum=bb9af7" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmaialva33&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&area=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity%20·%20Last%2031%20Days" width="98%" />
+
 </div>
 
 ---
 
+<!-- ═══════════════ ABOUT ═══════════════ -->
+
 <div align="center">
 
-## 🎭 About This Mysterious Developer
+## 🎭 About
 
-<details>
-<summary>🎩 Click to reveal the mystery...</summary>
+</div>
 
-<div align="left">
-
-```ascii
-    /\_/\  
-   ( o.o ) 
-    > ^ <    "I'm not a cat, I'm a developer!" 
+```typescript
+const gabriel: Developer = {
+  name: "Gabriel Maia",
+  role: "Senior Software Developer",
+  company: "DrConsulta · São Paulo, Brazil 🇧🇷",
+  origin: "Self-taught since 2014 · From Basic to Rust",
+  
+  stack: {
+    daily:    ["TypeScript", "Go", "Python", "Rust"],
+    cloud:    ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+    data:     ["PostgreSQL", "Redis", "Kafka", "Elasticsearch"],
+    obsessed: ["MCP servers", "Agentic systems", "VibeCode"],
+  },
+  
+  metrics: {
+    yearsCoding:     "5+ professional · 12 total",
+    linesOfCode:     "27.38M+",
+    contributionsYr: 3821,
+    repos:           "135 public · 15 private",
+    favoriteHour:    "3AM · debugging in the dark",
+  },
+  
+  hobbies: ["movies 🎬", "music 🎧", "gaming 🎮", "OSINT 🕵️"],
+};
 ```
 
-**🎯 Plot Twist:** Started as a cat in 2014 with **Basic**, evolved into a **Senior Software Engineer** with **5+ years** of turning coffee into existential crisis... I mean, code! 💀
+<details>
+<summary><b>🎩 Click for the full origin story</b></summary>
 
-**🚀 The Journey:** From **Basic** to **Go, TypeScript, Python, Java, C++**. Now specializing in:
-- 🏗️ **Scalable backend systems** (because my life doesn't scale)
-- 🤖 **MCP servers** (more reliable than my sleep schedule)
-- ✨ **VibeCode** (better vibes than my Monday mornings)
-- ☁️ **Cloud architecture** (higher than my stress levels)
+<br/>
 
-**🎪 Current Gig:** Senior Software Developer at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/) - surfing waves while drowning in coffee! 🏄‍♂️☕
+```ascii
+    /\_/\        ┌─────────────────────────────────────┐
+   ( o.o )       │  2014 · Basic on a borrowed laptop  │
+    > ^ <        │  2017 · First GitHub commit         │
+                 │  2020 · Backend dev @ Yazo          │
+                 │  2025 · Senior @ Wave Technologies  │
+                 │  2026 · Senior @ DrConsulta · MCP   │
+                 └─────────────────────────────────────┘
+```
 
-**🎮 When Not Coding:** Movies, music, gaming (and questioning life choices)
+**🚀 The Journey** — From Basic to **Go, TypeScript, Python, Rust, Java, C++**.
+Now specializing in **scalable backends**, **MCP server engineering**, **agentic AI integration**, and **cloud-native architecture**.
 
-</div>
+**🎯 Currently obsessed with** — autonomous agents, retrieval-augmented systems, real-time observability, and pretending I have a sleep schedule.
+
 </details>
 
-</div>
-
 ---
+
+<!-- ═══════════════ PROFESSIONAL JOURNEY ═══════════════ -->
+
+<div align="center">
 
 ## 💼 Professional Journey
 
-### 🔥 **Senior Software Developer** | [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)
-**February 2025 - February 2026 | Campina, São Paulo (Remote)**
+<sub>Timeline · most recent first</sub>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="35%" valign="top">
+
+### 🟢 **Current**
+**Senior Software Developer**
+[`@DrConsulta`](https://drconsulta.com/)
+
+📍 São Paulo, Brazil
+📅 March 2026 — Present
+
+</td>
+<td width="65%" valign="top">
 
 ```typescript
-const currentLife = {
-  morning: "☕ Coffee + Existential Crisis",
-  afternoon: "☁️ AWS/Azure (and anxiety)",
-  evening: "🤖 MCP server magic",
-  night: "✨ VibeCode (and insomnia)"
+const currentRole = {
+  morning:   "☕ Coffee + architecture decisions",
+  midday:    "🤖 Building MCP servers & agents",
+  afternoon: "☁️ Cloud infra (AWS / Azure)",
+  evening:   "✨ VibeCode + scalable backends",
+  focus:     ["Healthcare-tech", "AI integration", "DevX"],
 };
 ```
 
----
+</td>
+</tr>
 
-### 💻 **Backend Developer** | [Yazo](https://yazo.com.br/)
-**November 2020 - February 2025 | Londrina, Paraná (Remote)**
+<tr><td colspan="2"><br/></td></tr>
 
-```javascript
-const pastLife = {
-  achievement: "5+ million users survived my code",
-  trauma: "Legacy code that haunts my dreams",
-  therapy: "Redis for the pain",
-  graduation: "Yazo CLI - my digital offspring"
+<tr>
+<td width="35%" valign="top">
+
+### 🌊 **Previous**
+**Senior Software Developer**
+[`@Wave Technologies`](https://www.linkedin.com/company/wave-technologies-oficial/)
+
+📍 Campinas, SP (Remote)
+📅 Feb 2025 — Feb 2026
+
+</td>
+<td width="65%" valign="top">
+
+```typescript
+const wavePeriod = {
+  highlights: ["AWS migrations", "MCP integrations"],
+  built:      "Internal agentic tooling + cloud pipelines",
+  scale:      "Multi-region production workloads",
+  vibe:       "🏄‍♂️ Surfing waves, drowning in coffee",
 };
 ```
 
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="35%" valign="top">
+
+### 💻 **Foundation**
+**Backend Developer**
+[`@Yazo`](https://yazo.com.br/)
+
+📍 Londrina, PR (Remote)
+📅 Nov 2020 — Feb 2025
+
+</td>
+<td width="65%" valign="top">
+
+```typescript
+const yazoYears = {
+  achievement: "5M+ users served by my code",
+  built:       "Yazo CLI · my digital firstborn",
+  scaled:      "Legacy → modern microservices",
+  therapy:     "Redis cured the latency PTSD 💊",
+};
+```
+
+</td>
+</tr>
+</table>
+
 ---
+
+<!-- ═══════════════ TECH ARSENAL ═══════════════ -->
 
 <div align="center">
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,python,typescript,java,cpp&theme=dark" />
-  <br>
-  <sup><em>Backend Languages - My weapons of choice</em></sup>
-</div>
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
 
-<br>
+#### 🔷 Backend
+<img src="https://skillicons.dev/icons?i=go,nodejs,typescript,python,rust,java&theme=dark&perline=3" />
+<br/>
+<sub>The weapons of choice</sub>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark" />
-  <br>
-  <sup><em>Cloud & Infrastructure - Where dreams go to die</em></sup>
-</div>
+</td>
+<td align="center" valign="top" width="33%">
 
-<br>
+#### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark&perline=3" />
+<br/>
+<sub>Where dreams scale</sub>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq,kafka,elasticsearch&theme=dark" />
-  <br>
-  <sup><em>Databases & Messaging - My data overlords</em></sup>
-</div>
+</td>
+<td align="center" valign="top" width="33%">
 
-<br>
+#### 🗄️ Data & Messaging
+<img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,kafka,rabbitmq,elasticsearch&theme=dark&perline=3" />
+<br/>
+<sub>The data overlords</sub>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
-  <br>
-  <sup><em>Frontend & Mobile - Making things less ugly</em></sup>
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
 
-<br>
+#### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark&perline=3" />
+<br/>
+<sub>Making things prettier</sub>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
-  <br>
-  <sup><em>Tools & DevOps - My survival kit</em></sup>
-</div>
+</td>
+<td align="center" valign="top">
 
-<br>
+#### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark&perline=3" />
+<br/>
+<sub>The survival kit</sub>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖_MCP_Server-FF6B6B?style=for-the-badge&logo=protocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/✨_VibeCode-4ECDC4?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧠_AI_Integration-45B7D1?style=for-the-badge&logo=brain&logoColor=white" />
-  <br>
-  <sup><em>Specialized Skills - The forbidden arts</em></sup>
-</div>
+</td>
+<td align="center" valign="top">
+
+#### ✨ Specialized
+<img src="https://img.shields.io/badge/MCP-7aa2f7?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Agentic-bb9af7?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/VibeCode-9ece6a?style=for-the-badge&logo=sparkfun&logoColor=white&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Claude%20Code-f7768e?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1b27" />
+<br/>
+<sub>The forbidden arts</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
 <div align="center">
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<sub>Pinned showcase · sorted by ⭐</sub>
+
+<br/>
+
+<a href="https://github.com/gabrielmaialva33/winx-code-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=winx-code-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+<a href="https://github.com/gabrielmaialva33/anthropic-proxy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=anthropic-proxy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+
+<a href="https://github.com/gabrielmaialva33/mahina-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=mahina-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+<a href="https://github.com/gabrielmaialva33/flora-music-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=flora-music-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+
+<a href="https://github.com/gabrielmaialva33/zeitgeist">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=zeitgeist&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+<a href="https://github.com/gabrielmaialva33/streamix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=streamix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════ STATS DEEP DIVE ═══════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Stats Deep Dive
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&layout=donut&langs_count=8" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmaialva33&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🏆 Trophy Case
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielmaialva33&theme=tokyonight&row=1&column=8&margin-w=8&margin-h=8&no-bg=true&no-frame=false" />
+</a>
+
+<br/><br/>
+
+### 🎮 3D Contribution Calendar
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/gabrielmaialva33/gabrielmaialva33/output/github-contribution-grid-snake.svg" width="98%" />
+
+</div>
+
+---
+
+<!-- ═══════════════ WAKATIME ═══════════════ -->
+
+<div align="center">
+
+## ⏱️ WakaTime Coding Activity
+
+<sub>Auto-updated daily via GitHub Actions</sub>
+
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2043%20mins-blue?style=flat)
@@ -199,55 +406,57 @@ C                        3 repos             █░░░░░░░░░░�
  Last Updated on 08/05/2026 00:50:14 UTC
 <!--END_SECTION:waka-->
 
-</div>
-
 ---
+
+<!-- ═══════════════ DARK FACTS ═══════════════ -->
 
 <div align="center">
 
 ## 🎮 Developer Dark Facts
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/💀_Debugging-Since_2014-FF6B6B?style=for-the-badge" />
-      <br><br>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
-      <br>
-      <em>From Basic to Burnout!</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🧟_Self_Taught-Zombie_Mode-4ECDC4?style=for-the-badge" />
-      <br><br>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
-      <br>
-      <em>Learning never stops... neither do I!</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🐱_Cat_Envy-They_Have_9_Lives-45B7D1?style=for-the-badge" />
-      <br><br>
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" />
-      <br>
-      <em>I only have 1 life and 0 sleep!</em>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%" valign="top">
+  <img src="https://img.shields.io/badge/Debugging%20Since-2014-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
+  <br/><br/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
+  <br/>
+  <sub><em>From Basic to Brilliant</em></sub>
+</td>
+<td align="center" width="33%" valign="top">
+  <img src="https://img.shields.io/badge/Self%20Taught-Zombie%20Mode-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+  <br/><br/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
+  <br/>
+  <sub><em>Learning never stops</em></sub>
+</td>
+<td align="center" width="33%" valign="top">
+  <img src="https://img.shields.io/badge/Cat%20Envy-9%20Lives-f7768e?style=for-the-badge&labelColor=1a1b27" />
+  <br/><br/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" />
+  <br/>
+  <sub><em>I only have 1 life and 0 sleep</em></sub>
+</td>
+</tr>
 </table>
 
 <details>
-<summary>🪦 Click for dark developer secrets...</summary>
+<summary><b>🪦 Click for dark developer secrets</b></summary>
+
+<br/>
 
 ```typescript
 const darkSecrets = {
-  favoriteHours: "3AM debugging sessions 🧟",
+  favoriteHours:     "3AM debugging sessions 🧟",
   mostProductiveDay: "Tuesday (probably caffeine overdose)",
-  currentObsession: "MCP servers and existential dread",
-  hiddenTalent: "Making databases cry",
-  superPower: "Converting coffee to depression... I mean, code",
-  weekendActivity: "Pretending to have work-life balance",
-  catEnvy: "Cats sleep 16h/day, I sleep 4h/day 😭",
-  realityCheck: "Still figuring out this whole 'being human' thing",
-  codingTrauma: "Legacy code that haunts my dreams",
-  therapySession: "Stack Overflow is my therapist"
+  currentObsession:  "MCP servers, agentic loops, existential dread",
+  hiddenTalent:      "Making databases cry",
+  superPower:        "Converting coffee to depression... I mean, code",
+  weekendActivity:   "Pretending to have work-life balance",
+  catEnvy:           "Cats sleep 16h/day, I sleep 4h/day 😭",
+  realityCheck:      "Still figuring out this whole 'being human' thing",
+  codingTrauma:      "Legacy code that haunts my dreams",
+  therapySession:    "Stack Overflow is my therapist",
 };
 ```
 
@@ -257,45 +466,52 @@ const darkSecrets = {
 
 ---
 
-<div align="center">
-
-## 🌐 Connect with the Suffering Developer
+<!-- ═══════════════ QUOTE ═══════════════ -->
 
 <div align="center">
-  <a href="mailto:gabrielmaialva33@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Send_Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-maia-183984239">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Facade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/gabrielmaialva33">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Code_Cemetery-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/sr_mrootx">
-    <img src="https://img.shields.io/badge/📱_Telegram-Quick_Therapy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
 
-<br>
+## 💭 Random Dev Quote
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielmaialva33&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/gabrielmaialva33?style=for-the-badge&color=blue&labelColor=black" />
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    &nbsp; Made with ❤️, lots of ☕, and a touch of 💀 existential dread
-    <br>
-    <sup>&copy; 2017-present <a href="https://github.com/gabrielmaialva33/" target="_blank">Maia</a> | Still alive... barely</sup>
-  </h3>
-</div>
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+
+## 🌐 Let's Connect
+
+<sub>Always open to interesting conversations · MCP · Agentic AI · Backend architecture</sub>
+
+<br/><br/>
+
+<a href="mailto:gabrielmaialva33@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gabrielmaialva33-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.linkedin.com/in/gabriel-maia-183984239">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Maia-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://github.com/gabrielmaialva33">
+  <img src="https://img.shields.io/badge/GitHub-Follow-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://t.me/mrootx">
+  <img src="https://img.shields.io/badge/Telegram-sr__mrootx-9ece6a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+> Made with ❤️, lots of ☕, and a touch of 💀 existential dread
+> © 2017—present · Maia · Still alive... barely
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,30:bb9af7,70:24283b,100:1a1b27&height=120&section=footer&animation=twinkling" />
+
 </div>
