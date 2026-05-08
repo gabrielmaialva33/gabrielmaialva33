@@ -165,17 +165,17 @@ const pastLife = {
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C510%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 971.6 kB Used in GitHub's Storage 
+> 📦 972.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3,814 Contributions in the Year 2026
+> 🏆 3,821 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -183,50 +183,6 @@ const pastLife = {
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8199 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-🌆 Daytime                20758 commits       █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌃 Evening                18411 commits       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-🌙 Night                  9724 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   6956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Tuesday                  6472 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Wednesday                7206 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Thursday                 9288 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Friday                   7465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 6857 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Sunday                   12848 commits       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               29 hrs 30 mins      █████████████░░░░░░░░░░░░   52.03 % 
-Markdown                 8 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Elixir                   4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Other                    3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JavaScript               2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-
-🔥 Editors: 
-Unknown Editor           35 hrs 57 mins      ████████████████░░░░░░░░░   63.42 % 
-WebStorm                 17 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   31.44 % 
-RubyMine                 2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Antigravity              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-💻 Operating System: 
-Linux                    56 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -240,7 +196,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2026 00:50:42 UTC
+ Last Updated on 08/05/2026 00:50:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
