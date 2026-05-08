@@ -44,7 +44,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielmaialva33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" />
 
 </td>
 <td valign="top" width="50%">
@@ -298,32 +298,130 @@ const yazoYears = {
 
 ## 🚀 Featured Projects
 
-<sub>Pinned showcase · sorted by ⭐</sub>
+<sub>Top repos by ⭐ · live data via shields.io</sub>
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### [🦀 winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent)
+<a href="https://github.com/gabrielmaialva33/winx-code-agent">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/winx-code-agent?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/winx-code-agent?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white&labelColor=1a1b27" />
+</a>
+
+> ✨ High-performance code agent in Rust, combining best features of WCGW for max efficiency and semantic capabilities. 🦀
+
+</td>
+<td valign="top" width="50%">
+
+#### [🐍 anthropic-proxy](https://github.com/gabrielmaialva33/anthropic-proxy)
+<a href="https://github.com/gabrielmaialva33/anthropic-proxy">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/anthropic-proxy?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/anthropic-proxy?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1b27" />
+</a>
+
+> 🤖 Proxy that lets you use Claude Code with any OpenAI-compatible model — GPT-4o, OpenRouter, DeepSeek, Ollama, and more.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### [💬 mahina-bot](https://github.com/gabrielmaialva33/mahina-bot)
+<a href="https://github.com/gabrielmaialva33/mahina-bot">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/mahina-bot?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/mahina-bot?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1b27" />
+</a>
+
+> 🎵 Discord bot for server admins — moderation, music, fun commands. Built with TypeScript.
+
+</td>
+<td valign="top" width="50%">
+
+#### [🎶 flora-music-bot](https://github.com/gabrielmaialva33/flora-music-bot)
+<a href="https://github.com/gabrielmaialva33/flora-music-bot">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/flora-music-bot?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/flora-music-bot?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a1b27" />
+</a>
+
+> 🚀 Powerful music & video bot for Telegram with Pyrogram + Py-Tgcalls. Stream music, videos, live broadcasts.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### [🔓 camera-hack](https://github.com/gabrielmaialva33/camera-hack)
+<a href="https://github.com/gabrielmaialva33/camera-hack">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/camera-hack?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/camera-hack?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=1a1b27" />
+</a>
+
+> 🛡️ Root shell + persistent hack on a Yoosee/Jortan IP camera (Anyka AK3918EV330) via UART serial + Arduino bridge.
+
+</td>
+<td valign="top" width="50%">
+
+#### [🧠 viva](https://github.com/gabrielmaialva33/viva)
+<a href="https://github.com/gabrielmaialva33/viva">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/viva?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/viva?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Gleam-FFAFF3?style=flat-square&logo=gleam&logoColor=black&labelColor=1a1b27" />
+</a>
+
+> 🌌 Not a chatbot. Not a virtual assistant. A serious attempt to create genuine digital life. Built in Gleam/OTP.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### [📺 streamix](https://github.com/gabrielmaialva33/streamix)
+<a href="https://github.com/gabrielmaialva33/streamix">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/streamix?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/streamix?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white&labelColor=1a1b27" />
+</a>
+
+> 🎬 Premium consolidated streaming — bringing all your IPTV providers into one intelligent, beautiful interface.
+
+</td>
+<td valign="top" width="50%">
+
+#### [🖥️ Hackintosh-Z790](https://github.com/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO)
+<a href="https://github.com/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO">
+<img src="https://img.shields.io/github/stars/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO?style=flat-square&color=bb9af7&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/github/last-commit/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO?style=flat-square&color=7aa2f7&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white&labelColor=1a1b27" />
+</a>
+
+> 🍎 OpenCore EFI for ASUS ROG MAXIMUS Z790 HERO + i9-13900K + RTX 4090 + RX 570 · macOS Sequoia 15.7.3.
+
+</td>
+</tr>
+</table>
+
+<details align="center">
+<summary><b>📌 View as Pin Cards</b> (loaded via mirror — click to expand)</summary>
 
 <br/>
 
-<a href="https://github.com/gabrielmaialva33/winx-code-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=winx-code-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
-<a href="https://github.com/gabrielmaialva33/anthropic-proxy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=anthropic-proxy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
-
-<a href="https://github.com/gabrielmaialva33/mahina-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=mahina-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
-<a href="https://github.com/gabrielmaialva33/flora-music-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=flora-music-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
-
-<a href="https://github.com/gabrielmaialva33/zeitgeist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=zeitgeist&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
-<a href="https://github.com/gabrielmaialva33/streamix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmaialva33&repo=streamix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-</a>
-
+<div align="center">
+<a href="https://github.com/gabrielmaialva33/winx-code-agent"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabrielmaialva33&repo=winx-code-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" /></a>
+<a href="https://github.com/gabrielmaialva33/anthropic-proxy"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabrielmaialva33&repo=anthropic-proxy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" /></a>
+<a href="https://github.com/gabrielmaialva33/mahina-bot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabrielmaialva33&repo=mahina-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" /></a>
+<a href="https://github.com/gabrielmaialva33/flora-music-bot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabrielmaialva33&repo=flora-music-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" /></a>
 </div>
+
+</details>
 
 ---
 
@@ -337,7 +435,7 @@ const yazoYears = {
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaialva33&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&layout=donut&langs_count=8" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielmaialva33&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&layout=donut&langs_count=8" />
 
 </td>
 <td valign="top" width="50%">
