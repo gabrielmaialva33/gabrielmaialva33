@@ -71,27 +71,27 @@
 
 ```typescript
 const gabriel: Developer = {
-  name: "Gabriel Maia",
-  role: "Senior Software Developer",
-  company: "DrConsulta · São Paulo, Brazil 🇧🇷",
-  origin: "Self-taught since 2014 · From Basic to Rust",
-  
-  stack: {
-    daily:    ["TypeScript", "Go", "Python", "Rust"],
-    cloud:    ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
-    data:     ["PostgreSQL", "Redis", "Kafka", "Elasticsearch"],
-    obsessed: ["MCP servers", "Agentic systems", "VibeCode"],
-  },
-  
-  metrics: {
-    yearsCoding:     "5+ professional · 12 total",
-    linesOfCode:     "27.38M+",
-    contributionsYr: 3821,
-    repos:           "135 public · 15 private",
-    favoriteHour:    "3AM · debugging in the dark",
-  },
-  
-  hobbies: ["movies 🎬", "music 🎧", "gaming 🎮", "OSINT 🕵️"],
+    name: "Gabriel Maia",
+    role: "Senior Software Developer",
+    company: "DrConsulta · São Paulo, Brazil 🇧🇷",
+    origin: "Self-taught since 2014 · From Basic to Rust",
+
+    stack: {
+        daily: ["TypeScript", "Go", "Python", "Rust"],
+        cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+        data: ["PostgreSQL", "Redis", "Kafka", "Elasticsearch"],
+        obsessed: ["MCP servers", "Agentic systems", "VibeCode"],
+    },
+
+    metrics: {
+        yearsCoding: "5+ professional · 12 total",
+        linesOfCode: "27.38M+",
+        contributionsYr: 3821,
+        repos: "135 public · 15 private",
+        favoriteHour: "3AM · debugging in the dark",
+    },
+
+    hobbies: ["movies 🎬", "music 🎧", "gaming 🎮", "OSINT 🕵️"],
 };
 ```
 
@@ -111,9 +111,11 @@ const gabriel: Developer = {
 ```
 
 **🚀 The Journey** — From Basic to **Go, TypeScript, Python, Rust, Java, C++**.
-Now specializing in **scalable backends**, **MCP server engineering**, **agentic AI integration**, and **cloud-native architecture**.
+Now specializing in **scalable backends**, **MCP server engineering**, **agentic AI integration**, and **cloud-native
+architecture**.
 
-**🎯 Currently obsessed with** — autonomous agents, retrieval-augmented systems, real-time observability, and pretending I have a sleep schedule.
+**🎯 Currently obsessed with** — autonomous agents, retrieval-augmented systems, real-time observability, and pretending
+I have a sleep schedule.
 
 </details>
 
@@ -134,6 +136,7 @@ Now specializing in **scalable backends**, **MCP server engineering**, **agentic
 <td width="35%" valign="top">
 
 ### 🟢 **Current**
+
 **Senior Software Developer**
 [`@DrConsulta`](https://drconsulta.com/)
 
@@ -145,11 +148,11 @@ Now specializing in **scalable backends**, **MCP server engineering**, **agentic
 
 ```typescript
 const currentRole = {
-  morning:   "☕ Coffee + architecture decisions",
-  midday:    "🤖 Building MCP servers & agents",
-  afternoon: "☁️ Cloud infra (AWS / Azure)",
-  evening:   "✨ VibeCode + scalable backends",
-  focus:     ["Healthcare-tech", "AI integration", "DevX"],
+    morning: "☕ Coffee + architecture decisions",
+    midday: "🤖 Building MCP servers & agents",
+    afternoon: "☁️ Cloud infra (AWS / Azure)",
+    evening: "✨ VibeCode + scalable backends",
+    focus: ["Healthcare-tech", "AI integration", "DevX"],
 };
 ```
 
@@ -162,6 +165,7 @@ const currentRole = {
 <td width="35%" valign="top">
 
 ### 🌊 **Previous**
+
 **Senior Software Developer**
 [`@Wave Technologies`](https://www.linkedin.com/company/wave-technologies-oficial/)
 
@@ -173,10 +177,10 @@ const currentRole = {
 
 ```typescript
 const wavePeriod = {
-  highlights: ["AWS migrations", "MCP integrations"],
-  built:      "Internal agentic tooling + cloud pipelines",
-  scale:      "Multi-region production workloads",
-  vibe:       "🏄‍♂️ Surfing waves, drowning in coffee",
+    highlights: ["AWS migrations", "MCP integrations"],
+    built: "Internal agentic tooling + cloud pipelines",
+    scale: "Multi-region production workloads",
+    vibe: "🏄‍♂️ Surfing waves, drowning in coffee",
 };
 ```
 
@@ -189,6 +193,7 @@ const wavePeriod = {
 <td width="35%" valign="top">
 
 ### 💻 **Foundation**
+
 **Backend Developer**
 [`@Yazo`](https://yazo.com.br/)
 
@@ -200,10 +205,10 @@ const wavePeriod = {
 
 ```typescript
 const yazoYears = {
-  achievement: "5M+ users served by my code",
-  built:       "Yazo CLI · my digital firstborn",
-  scaled:      "Legacy → modern microservices",
-  therapy:     "Redis cured the latency PTSD 💊",
+    achievement: "5M+ users served by my code",
+    built: "Yazo CLI · my digital firstborn",
+    scaled: "Legacy → modern microservices",
+    therapy: "Redis cured the latency PTSD 💊",
 };
 ```
 
@@ -224,6 +229,7 @@ const yazoYears = {
 <td align="center" valign="top" width="33%">
 
 #### 🔷 Backend
+
 <img src="https://skillicons.dev/icons?i=go,nodejs,typescript,python,rust,java&theme=dark&perline=3" />
 <br/>
 <sub>The weapons of choice</sub>
@@ -232,6 +238,7 @@ const yazoYears = {
 <td align="center" valign="top" width="33%">
 
 #### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark&perline=3" />
 <br/>
 <sub>Where dreams scale</sub>
@@ -240,6 +247,7 @@ const yazoYears = {
 <td align="center" valign="top" width="33%">
 
 #### 🗄️ Data & Messaging
+
 <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,kafka,rabbitmq,elasticsearch&theme=dark&perline=3" />
 <br/>
 <sub>The data overlords</sub>
@@ -250,6 +258,7 @@ const yazoYears = {
 <td align="center" valign="top">
 
 #### 🎨 Frontend & Mobile
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark&perline=3" />
 <br/>
 <sub>Making things prettier</sub>
@@ -258,6 +267,7 @@ const yazoYears = {
 <td align="center" valign="top">
 
 #### 🧰 Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark&perline=3" />
 <br/>
 <sub>The survival kit</sub>
@@ -266,6 +276,7 @@ const yazoYears = {
 <td align="center" valign="top">
 
 #### ✨ Specialized
+
 <img src="https://img.shields.io/badge/MCP-7aa2f7?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/Agentic-bb9af7?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/VibeCode-9ece6a?style=for-the-badge&logo=sparkfun&logoColor=white&labelColor=1a1b27" />
@@ -378,19 +389,19 @@ const yazoYears = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.38%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 972.3 kB Used in GitHub's Storage 
- > 
+> 📦 972.3 kB Used in GitHub's Storage
+>
 > 🏆 3,821 Contributions in the Year 2026
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 135 Public Repositories 
- > 
-> 🔑 15 Private Repositories 
- > 
-**I Mostly Code in TypeScript** 
+>
+> 📜 135 Public Repositories
+>
+> 🔑 15 Private Repositories
+>
+**I Mostly Code in TypeScript**
 
 ```text
 TypeScript               62 repos            ██████████░░░░░░░░░░░░░░░   41.89 % 
@@ -400,10 +411,7 @@ Kotlin                   5 repos             █░░░░░░░░░░�
 C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
-
-
-
- Last Updated on 08/05/2026 00:50:14 UTC
+Last Updated on 08/05/2026 00:50:14 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -447,16 +455,16 @@ C                        3 repos             █░░░░░░░░░░�
 
 ```typescript
 const darkSecrets = {
-  favoriteHours:     "3AM debugging sessions 🧟",
-  mostProductiveDay: "Tuesday (probably caffeine overdose)",
-  currentObsession:  "MCP servers, agentic loops, existential dread",
-  hiddenTalent:      "Making databases cry",
-  superPower:        "Converting coffee to depression... I mean, code",
-  weekendActivity:   "Pretending to have work-life balance",
-  catEnvy:           "Cats sleep 16h/day, I sleep 4h/day 😭",
-  realityCheck:      "Still figuring out this whole 'being human' thing",
-  codingTrauma:      "Legacy code that haunts my dreams",
-  therapySession:    "Stack Overflow is my therapist",
+    favoriteHours: "3AM debugging sessions 🧟",
+    mostProductiveDay: "Tuesday (probably caffeine overdose)",
+    currentObsession: "MCP servers, agentic loops, existential dread",
+    hiddenTalent: "Making databases cry",
+    superPower: "Converting coffee to depression... I mean, code",
+    weekendActivity: "Pretending to have work-life balance",
+    catEnvy: "Cats sleep 16h/day, I sleep 4h/day 😭",
+    realityCheck: "Still figuring out this whole 'being human' thing",
+    codingTrauma: "Legacy code that haunts my dreams",
+    therapySession: "Stack Overflow is my therapist",
 };
 ```
 
