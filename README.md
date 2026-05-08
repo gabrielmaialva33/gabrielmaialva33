@@ -433,14 +433,28 @@ const yazoYears = {
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" rowspan="3">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielmaialva33&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&layout=donut&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmaialva33&theme=tokyonight" width="100%" />
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmaialva33&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmaialva33&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmaialva33&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielmaialva33&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
