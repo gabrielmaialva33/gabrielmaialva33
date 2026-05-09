@@ -495,25 +495,69 @@ const yazoYears = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C532%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.88%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 972.3 kB Used in GitHub's Storage
->
-> 🏆 3,821 Contributions in the Year 2026
->
+> 📦 972.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,895 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
->
-> 📜 135 Public Repositories
->
-> 🔑 15 Private Repositories
->
-**I Mostly Code in TypeScript**
+ > 
+> 📜 135 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8276 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌆 Daytime                20211 commits       █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌃 Evening                16492 commits       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌙 Night                  9643 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   6346 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  6271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Wednesday                7434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Thursday                 9413 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Friday                   7561 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Saturday                 6911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   10686 commits       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               29 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.88 % 
+Elixir                   12 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Markdown                 9 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Other                    6 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+JavaScript               2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+
+🔥 Editors: 
+Unknown Editor           47 hrs 14 mins      ████████████████░░░░░░░░░   65.45 % 
+WebStorm                 17 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+RubyMine                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Antigravity              1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+PyCharm                  1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+
+💻 Operating System: 
+Linux                    72 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               62 repos            ██████████░░░░░░░░░░░░░░░   41.89 % 
@@ -523,7 +567,10 @@ Kotlin                   5 repos             █░░░░░░░░░░�
 C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
-Last Updated on 08/05/2026 00:50:14 UTC
+
+
+
+ Last Updated on 09/05/2026 00:50:17 UTC
 <!--END_SECTION:waka-->
 
 ---
