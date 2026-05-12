@@ -495,17 +495,17 @@ const yazoYears = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C546%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C555%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 978.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,997 Contributions in the Year 2026
+> 🏆 4,034 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -513,50 +513,6 @@ const yazoYears = {
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8311 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌆 Daytime                20274 commits       █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌃 Evening                16496 commits       ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌙 Night                  9643 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   6346 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Tuesday                  6271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                7434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Thursday                 9413 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Friday                   7565 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Saturday                 6982 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Sunday                   10713 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Elixir                   15 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-TypeScript               15 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Markdown                 11 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Other                    7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-TOML                     5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-
-🔥 Editors: 
-Unknown Editor           53 hrs 57 mins      ██████████████████░░░░░░░   72.79 % 
-WebStorm                 9 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-RubyMine                 6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Antigravity              1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-RustRover                1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-
-💻 Operating System: 
-Linux                    74 hrs 7 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -570,7 +526,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2026 00:51:10 UTC
+ Last Updated on 12/05/2026 00:50:37 UTC
 <!--END_SECTION:waka-->
 
 ---
