@@ -499,13 +499,13 @@ const yazoYears = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 988.4 kB Used in GitHub's Storage 
+> 📦 988.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5,824 Contributions in the Year 2026
+> 🏆 5,914 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -513,20 +513,64 @@ const yazoYears = {
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8595 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+🌆 Daytime                20982 commits       █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌃 Evening                16984 commits       ████████░░░░░░░░░░░░░░░░░   30.21 % 
+🌙 Night                  9663 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   6581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  6621 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Wednesday                7906 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Thursday                 9675 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Friday                   7637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Saturday                 7029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   10775 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Markdown                 21 hrs 39 mins      ██████████████████░░░░░░░   70.96 % 
+Python                   3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Bash                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+HTML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Elixir                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+
+🔥 Editors: 
+Claude Code              29 hrs 56 mins      █████████████████████████   98.11 % 
+Codex CLI                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Antigravityide           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+💻 Operating System: 
+Linux                    30 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ██████████░░░░░░░░░░░░░░░   41.61 % 
-Python                   15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+TypeScript               62 repos            ██████████░░░░░░░░░░░░░░░   41.33 % 
+Elixir                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 04/06/2026 01:07:53 UTC
+ Last Updated on 05/06/2026 01:04:44 UTC
 <!--END_SECTION:waka-->
 
 ---
