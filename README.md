@@ -495,17 +495,17 @@ const yazoYears = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C939%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C943%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.60%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 994.6 kB Used in GitHub's Storage 
  > 
-> 🏆 7,141 Contributions in the Year 2026
+> 🏆 7,160 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -513,50 +513,6 @@ const yazoYears = {
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10338 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌆 Daytime                24361 commits       █████████░░░░░░░░░░░░░░░░   36.79 % 
-🌃 Evening                20625 commits       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌙 Night                  10888 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   8124 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Tuesday                  9052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                9845 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Thursday                 10947 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday                   8528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Saturday                 7461 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Sunday                   12255 commits       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   7 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
-Markdown                 4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-YAML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Elixir                   2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-TOML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-
-🔥 Editors: 
-Codex CLI                9 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.16 % 
-Claude Code              9 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.16 % 
-PyCharm                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Antigravity CLI          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Antigravity IDE          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-
-💻 Operating System: 
-Linux                    20 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -570,7 +526,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 03:54:34 UTC
+ Last Updated on 14/07/2026 03:28:36 UTC
 <!--END_SECTION:waka-->
 
 ---
