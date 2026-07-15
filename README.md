@@ -495,17 +495,17 @@ const yazoYears = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C943%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C949%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.97%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 994.6 kB Used in GitHub's Storage 
+> 📦 994.7 kB Used in GitHub's Storage 
  > 
-> 🏆 7,160 Contributions in the Year 2026
+> 🏆 7,170 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -513,20 +513,64 @@ const yazoYears = {
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11325 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+🌆 Daytime                26756 commits       █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌃 Evening                21895 commits       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+🌙 Night                  11012 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   9290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Tuesday                  10544 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Wednesday                10591 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Thursday                 11247 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Friday                   8994 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 7509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Sunday                   12813 commits       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   15 hrs 22 mins      ████████████████░░░░░░░░░   63.22 % 
+Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+TOML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+
+🔥 Editors: 
+Claude Code              13 hrs 30 mins      ██████████████░░░░░░░░░░░   55.52 % 
+Codex CLI                9 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
+PyCharm                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Antigravity CLI          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Antigravity IDE          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+
+💻 Operating System: 
+Linux                    24 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ██████████░░░░░░░░░░░░░░░   40.52 % 
-Elixir                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               63 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+Elixir                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 
 
 
 
- Last Updated on 14/07/2026 03:28:36 UTC
+ Last Updated on 15/07/2026 03:34:50 UTC
 <!--END_SECTION:waka-->
 
 ---
