@@ -495,17 +495,17 @@ const yazoYears = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C125%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C133%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 995.3 kB Used in GitHub's Storage 
+> 📦 995.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7,667 Contributions in the Year 2026
+> 🏆 7,779 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -516,21 +516,21 @@ const yazoYears = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10311 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌆 Daytime                24145 commits       █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌃 Evening                20879 commits       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  10964 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌞 Morning                10110 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌆 Daytime                23563 commits       █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌃 Evening                20776 commits       ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌙 Night                  10961 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   7936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  8830 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                10041 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Thursday                 11017 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Friday                   8608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 7528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Sunday                   12339 commits       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Monday                   7706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Tuesday                  8528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                9813 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Thursday                 10912 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   8483 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 7563 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   12405 commits       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 ```
 
 
@@ -540,21 +540,21 @@ Sunday                   12339 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   20 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.03 % 
-Markdown                 15 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Other                    7 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python                   22 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
+Markdown                 14 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Other                    5 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Bash                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Elixir                   2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 25 mins      █████████████░░░░░░░░░░░░   53.69 % 
-Codex CLI                19 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   37.37 % 
-PyCharm                  1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Antigravity CLI          1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-WebStorm                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Claude Code              29 hrs 22 mins      █████████████░░░░░░░░░░░░   51.07 % 
+Codex CLI                23 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   41.73 % 
+PyCharm                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Antigravity CLI          1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+WebStorm                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Linux                    52 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    57 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -570,7 +570,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 03:57:11 UTC
+ Last Updated on 27/07/2026 04:17:22 UTC
 <!--END_SECTION:waka-->
 
 ---
