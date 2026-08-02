@@ -542,47 +542,47 @@ Sunday                   14562 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   20 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
-Markdown                 11 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Elixir                   7 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Bash                     7 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Python                   23 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   37.61 % 
+Markdown                 11 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Elixir                   9 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Bash                     7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Shell Script             2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Codex CLI                28 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.02 % 
-Claude Code              21 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.54 % 
-PyCharm                  3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Antigravity CLI          2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-WebStorm                 2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Codex CLI                36 hrs 13 mins      ███████████████░░░░░░░░░░   58.20 % 
+Claude Code              16 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+PyCharm                  3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Antigravity CLI          2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+WebStorm                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 💻 Operating System: 
-Linux                    59 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    62 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 54 mins (99.79%)
+⏱ AI Coding Time: 62 hrs 6 mins (99.8%)
 
-✍️ 36,279 lines written by AI, 161 lines written by hand (99.56% AI-written)
+✍️ 51,770 lines written by AI, 167 lines written by hand (99.68% AI-written)
 
-🔤 21,196,673,143 Input Tokens, 49,390,816 Output Tokens
+🔤 21,534,923,257 Input Tokens, 50,184,178 Output Tokens
 
-💵 $23070.94 Estimated AI Cost This Week
+💵 $24892.55 Estimated AI Cost This Week
 
-🧠 420 AI Sessions, 2724 AI Prompts
+🧠 360 AI Sessions, 2312 AI Prompts
 
-GPT                      36,680 lines        ████████████████████████░   97.41 % 
-Codex-Cli                609 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Opus                     367 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+GPT                      53,087 lines        ████████████████████████░   97.05 % 
+Codex-Cli                1,231 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Opus                     381 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📚 Verbose Prompter — average 31,551 characters per prompt
+🤖 AI-Driven — 99.68% of written lines came from AI
+📚 Verbose Prompter — average 26,418 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -598,7 +598,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 03:59:43 UTC
+ Last Updated on 02/08/2026 03:48:23 UTC
 <!--END_SECTION:waka-->
 
 ---
