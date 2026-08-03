@@ -505,9 +505,9 @@ const yazoYears = {
 
 **🐱 My GitHub Data** 
 
-> 📦 996.0 kB Used in GitHub's Storage 
+> 📦 996.1 kB Used in GitHub's Storage 
  > 
-> 🏆 8,003 Contributions in the Year 2026
+> 🏆 8,007 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -518,7 +518,7 @@ const yazoYears = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11426 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+🌞 Morning                11430 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 🌆 Daytime                26991 commits       █████████░░░░░░░░░░░░░░░░   36.40 % 
 🌃 Evening                24252 commits       ████████░░░░░░░░░░░░░░░░░   32.71 % 
 🌙 Night                  11479 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
@@ -532,7 +532,7 @@ Wednesday                11091 commits       ████░░░░░░░�
 Thursday                 11465 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 Friday                   9470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Saturday                 8385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Sunday                   14562 commits       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Sunday                   14566 commits       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 ```
 
 
@@ -542,47 +542,46 @@ Sunday                   14562 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   23 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   37.61 % 
-Markdown                 11 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Elixir                   9 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Bash                     7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Shell Script             2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   19 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
+Markdown                 11 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Elixir                   7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Bash                     4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Other                    1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-Codex CLI                36 hrs 13 mins      ███████████████░░░░░░░░░░   58.20 % 
-Claude Code              16 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-PyCharm                  3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Antigravity CLI          2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-WebStorm                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Codex CLI                30 hrs 36 mins      ███████████████░░░░░░░░░░   61.58 % 
+Claude Code              9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+PyCharm                  3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Antigravity CLI          2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+WebStorm                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 💻 Operating System: 
-Linux                    62 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    49 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 62 hrs 6 mins (99.8%)
+⏱ AI Coding Time: 49 hrs 34 mins (99.75%)
 
-✍️ 51,770 lines written by AI, 167 lines written by hand (99.68% AI-written)
+✍️ 40,297 lines written by AI, 160 lines written by hand (99.6% AI-written)
 
-🔤 21,534,923,257 Input Tokens, 50,184,178 Output Tokens
+🔤 19,902,324,291 Input Tokens, 46,013,074 Output Tokens
 
-💵 $24892.55 Estimated AI Cost This Week
+💵 $19009.92 Estimated AI Cost This Week
 
-🧠 360 AI Sessions, 2312 AI Prompts
+🧠 236 AI Sessions, 1369 AI Prompts
 
-GPT                      53,087 lines        ████████████████████████░   97.05 % 
-Codex-Cli                1,231 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Opus                     381 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+GPT                      41,205 lines        ████████████████████████░   96.24 % 
+Codex-Cli                1,231 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Opus                     381 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 26,418 characters per prompt
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 12,030 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -598,7 +597,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 03:48:23 UTC
+ Last Updated on 03/08/2026 03:59:45 UTC
 <!--END_SECTION:waka-->
 
 ---
