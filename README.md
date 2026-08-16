@@ -495,9 +495,9 @@ const yazoYears = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C127%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C139%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-937%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-949%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -507,7 +507,7 @@ const yazoYears = {
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 9,110 Contributions in the Year 2026
+> 🏆 9,120 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -515,76 +515,6 @@ const yazoYears = {
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10530 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌆 Daytime                24924 commits       █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌃 Evening                21351 commits       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌙 Night                  11141 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   7717 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Tuesday                  9073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Wednesday                10511 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 11444 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Friday                   8830 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Saturday                 8087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Sunday                   12284 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Elixir                   16 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   36.68 % 
-Python                   9 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Markdown                 5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Bash                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-
-🔥 Editors: 
-Codex CLI                32 hrs 55 mins      ██████████████████░░░░░░░   72.05 % 
-Antigravity IDE          3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Antigravity CLI          2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-RubyMine                 2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-PyCharm                  1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-
-💻 Operating System: 
-Linux                    45 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 45 hrs 36 mins (99.78%)
-
-✍️ 97,826 lines written by AI, 9 lines written by hand (99.99% AI-written)
-
-🔤 207,314,217 Input Tokens, 28,870,867 Output Tokens
-
-💵 $7534.47 Estimated AI Cost This Week
-
-🧠 112 AI Sessions, 311 AI Prompts
-
-GPT                      101,275 lines       █████████████████████████   98.74 % 
-Codex-Cli                1,223 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Opus                     65 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Fable                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 5,665 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -598,7 +528,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 02:37:54 UTC
+ Last Updated on 16/08/2026 02:30:32 UTC
 <!--END_SECTION:waka-->
 
 ---
