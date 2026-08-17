@@ -515,6 +515,76 @@ const yazoYears = {
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10530 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+🌆 Daytime                24924 commits       █████████░░░░░░░░░░░░░░░░   36.68 % 
+🌃 Evening                21358 commits       ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌙 Night                  11144 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   7717 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Tuesday                  9073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Wednesday                10511 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 11444 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Friday                   8837 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Saturday                 8090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Sunday                   12284 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Elixir                   16 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+TypeScript               11 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Python                   10 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Markdown                 8 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+JavaScript               3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+
+🔥 Editors: 
+Codex CLI                42 hrs 4 mins       ████████████████░░░░░░░░░   64.61 % 
+Claude Code              6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Antigravity CLI          5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Antigravity IDE          4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+WebStorm                 2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+
+💻 Operating System: 
+Linux                    65 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 64 hrs 49 mins (99.57%)
+
+✍️ 149,245 lines written by AI, 156 lines written by hand (99.9% AI-written)
+
+🔤 216,279,544 Input Tokens, 31,642,910 Output Tokens
+
+💵 $8157.57 Estimated AI Cost This Week
+
+🧠 167 AI Sessions, 499 AI Prompts
+
+GPT                      139,229 lines       ██████████████████████░░░   89.87 % 
+Opus                     11,154 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Codex-Cli                4,467 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Fable                    69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 3,833 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -528,7 +598,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 02:30:32 UTC
+ Last Updated on 17/08/2026 02:42:42 UTC
 <!--END_SECTION:waka-->
 
 ---
