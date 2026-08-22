@@ -1,21 +1,57 @@
-name: Waka Readme
+name: Refresh Development Activity
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    # Daily at 00:23 in America/Sao_Paulo (03:23 UTC).
+    - cron: "23 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-writes
+  cancel-in-progress: false
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Refresh the compact WakaTime section
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      # The action revision is pinned. Its upstream Docker image is still
+      # tag-based, so updates must continue to be reviewed carefully.
+      - name: Update development metrics
+        uses: anmol098/waka-readme-stats@4db28e08bfd8bac570125799fe1cfdcb23a8c871 # master pinned 2026-08-22
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PUSH_TOKEN: ${{ github.token }}
+
           SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_OS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
+
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_UPDATED_DATE: "True"
+
+          IGNORED_REPOS: "gabrielmaialva33"
+          MAX_REPOS: "250"
+          BADGE_STYLE: "flat-square"
           LOCALE: "en"
+
+          COMMIT_MESSAGE: "chore(profile): refresh development activity"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
