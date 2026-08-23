@@ -368,29 +368,33 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-8%2C156%20hrs%2013%20mins-7aa2f7?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C156%20hrs%2013%20mins-blue?style=flat-square)
 
-**Programming languages this week**
-
-```text
-TypeScript               11 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   24.71 %
-Python                   11 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-Markdown                  6 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Bash                      4 hrs 33 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Elixir                    1 hr 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-```
-
-**Languages across repositories**
+📊 **This Week I Spent My Time On** 
 
 ```text
-TypeScript               67 repos            ██████████░░░░░░░░░░░░░░░   41.61 %
-Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Rust                      6 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Kotlin                    5 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-C                         3 repos            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+💬 Programming Languages: 
+Python                   8 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+TypeScript               7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Bash                     4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Elixir                   1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 
-_Last refreshed on 22/08/2026 at 02:43 UTC._
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               67 repos            ██████████░░░░░░░░░░░░░░░   41.61 % 
+Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
+
+
+
+
+ Last Updated on 23/08/2026 04:07:11 UTC
 <!--END_SECTION:waka-->
 
 ---
