@@ -374,11 +374,11 @@ const engineeringPrinciples = [
 
 ```text
 💬 Programming Languages: 
-Python                   27 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   34.16 % 
-Rust                     15 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Other                    8 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Bash                     6 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-JSON                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Python                   21 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.45 % 
+Rust                     14 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Other                    7 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Bash                     5 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Markdown                 2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -394,7 +394,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 15:31:17 UTC
+ Last Updated on 29/08/2026 10:15:26 UTC
 <!--END_SECTION:waka-->
 
 ---
