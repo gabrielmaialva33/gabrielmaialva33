@@ -370,20 +370,31 @@ const engineeringPrinciples = [
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C210%20hrs%2030%20mins-blue?style=flat-square)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   15 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
+Rust                     6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+YAML                     3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Other                    3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Bash                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               67 repos            ██████████░░░░░░░░░░░░░░░   41.36 % 
-Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               68 repos            ██████████░░░░░░░░░░░░░░░   41.72 % 
+Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 
 
 
- Last Updated on 31/08/2026 09:56:33 UTC
+ Last Updated on 01/09/2026 08:47:25 UTC
 <!--END_SECTION:waka-->
 
 ---
