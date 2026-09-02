@@ -368,17 +368,17 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C210%20hrs%2030%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C225%20hrs%2043%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
-Rust                     6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-YAML                     3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Other                    3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Bash                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Python                   6 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Rust                     6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Bash                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Other                    3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+YAML                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -394,7 +394,7 @@ C                        3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 08:47:25 UTC
+ Last Updated on 02/09/2026 08:00:48 UTC
 <!--END_SECTION:waka-->
 
 ---
