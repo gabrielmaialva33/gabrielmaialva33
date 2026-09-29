@@ -368,7 +368,18 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C337%20hrs%2026%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C360%20hrs%2034%20mins-blue?style=flat-square)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 25 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Other                    16 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+TypeScript               7 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Python                   7 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Rust                     5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -383,7 +394,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 10:00:32 UTC
+ Last Updated on 29/09/2026 09:59:55 UTC
 <!--END_SECTION:waka-->
 
 ---
