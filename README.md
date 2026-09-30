@@ -368,33 +368,33 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C360%20hrs%2034%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C373%20hrs%204%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 25 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Other                    16 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-TypeScript               7 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Python                   7 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Rust                     5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 28 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   33.52 % 
+Other                    11 hrs 25 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+TypeScript               9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Python                   7 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+C++                      6 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               70 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               71 repos            ███████████░░░░░░░░░░░░░░   42.01 % 
+Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
 
 
- Last Updated on 29/09/2026 09:59:55 UTC
+ Last Updated on 30/09/2026 09:51:49 UTC
 <!--END_SECTION:waka-->
 
 ---
