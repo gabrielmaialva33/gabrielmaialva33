@@ -374,11 +374,11 @@ const engineeringPrinciples = [
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
-Markdown                 15 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   30.32 % 
-Other                    12 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-C++                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JavaScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Python                   17 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   34.23 % 
+Markdown                 15 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Other                    11 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+C++                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JavaScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -394,7 +394,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 10:10:37 UTC
+ Last Updated on 12/10/2026 11:08:14 UTC
 <!--END_SECTION:waka-->
 
 ---
