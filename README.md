@@ -374,17 +374,17 @@ const engineeringPrinciples = [
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.55 % 
-Other                    7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-C++                      6 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Python                   4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Rust                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Markdown                 21 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.05 % 
+Other                    9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Python                   4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+C++                      3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+JavaScript               2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               75 repos            ███████████░░░░░░░░░░░░░░   42.13 % 
+TypeScript               74 repos            ██████████░░░░░░░░░░░░░░░   41.57 % 
 Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 Rust                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
@@ -394,7 +394,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 08:46:47 UTC
+ Last Updated on 23/10/2026 08:42:35 UTC
 <!--END_SECTION:waka-->
 
 ---
