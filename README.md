@@ -368,33 +368,22 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C550%20hrs%2037%20mins-blue?style=flat-square)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 27 hrs 26 mins      ███████████░░░░░░░░░░░░░░   44.82 % 
-Other                    10 hrs 21 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Python                   5 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-TypeScript               5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Elixir                   3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C555%20hrs%2053%20mins-blue?style=flat-square)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               75 repos            ███████████░░░░░░░░░░░░░░   42.13 % 
-Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Rust                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               76 repos            ███████████░░░░░░░░░░░░░░   42.46 % 
+Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Rust                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 
 
 
- Last Updated on 27/10/2026 09:11:55 UTC
+ Last Updated on 28/10/2026 09:52:55 UTC
 <!--END_SECTION:waka-->
 
 ---
