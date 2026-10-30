@@ -368,33 +368,33 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C555%20hrs%2055%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C561%20hrs%2054%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 26 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.72 % 
-TypeScript               10 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Other                    9 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Python                   3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Svelte                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Markdown                 22 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.40 % 
+TypeScript               10 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Other                    7 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Python                   3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Svelte                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               76 repos            ███████████░░░░░░░░░░░░░░   42.46 % 
-Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Rust                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript               76 repos            ███████████░░░░░░░░░░░░░░   42.22 % 
+Elixir                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Rust                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 
 
 
- Last Updated on 29/10/2026 10:14:40 UTC
+ Last Updated on 30/10/2026 10:16:02 UTC
 <!--END_SECTION:waka-->
 
 ---
