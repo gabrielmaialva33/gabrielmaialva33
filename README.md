@@ -368,17 +368,17 @@ const engineeringPrinciples = [
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C568%20hrs%208%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C573%20hrs%2028%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 23 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-TypeScript               10 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Other                    9 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Python                   2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Svelte                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Markdown                 22 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   41.98 % 
+TypeScript               9 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Other                    9 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Python                   2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Svelte                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -394,7 +394,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 09:50:23 UTC
+ Last Updated on 01/11/2026 10:40:04 UTC
 <!--END_SECTION:waka-->
 
 ---
